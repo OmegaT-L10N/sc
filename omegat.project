@@ -32,7 +32,7 @@
             </repository>
             <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
                 <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
-                <mapping local="source/readme_de.txt" repository="release/readme.txt"/>
+                <mapping local="source/readme_sc.txt" repository="release/readme.txt"/>
                 <mapping local="source/release/win32-specific/CustomMessages.ini" repository="release/win32-specific/CustomMessages.ini"/>
                 <mapping local="source/scripts/check_rules.properties" repository="scripts/properties/check_rules.properties"/>
                 <mapping local="source/scripts/spellcheck.properties" repository="scripts/properties/spellcheck.properties"/>
