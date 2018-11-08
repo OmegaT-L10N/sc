@@ -1562,6 +1562,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A source sentence might look like:</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184042Z" creationid="adria" creationdate="20181108T184042Z">
+        <seg>Una frase de orìgine podet èssere che:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T174411Z" creationid="adria" creationdate="20180815T174411Z">
@@ -5344,6 +5352,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184335Z" creationid="adria" creationdate="20181108T184335Z">
+        <seg>In cada manera, si faghes una faddina iscriende is etichetas de formadu, podet dare chi is archìvios tradùidos tuos no potzant èssere abertos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyperlinks</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180818T223135Z" creationid="adria" creationdate="20180818T223135Z">
@@ -7354,6 +7370,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184017Z" creationid="adria" creationdate="20181108T184017Z">
+        <seg>A s'ispissu, is documentos ant a cuntènnere etichetas chi no currispondent a su formadu, però chi sunt importantes in is archìvios de orìgine (e in is archìvios tradùidos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T174037Z" creationid="adria" creationdate="20180815T174037Z">
@@ -7522,6 +7546,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T192908Z" creationid="adria" creationdate="20180815T192908Z">
         <seg>OmegaT {0} est a disponimentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184102Z" creationid="adria" creationdate="20181108T184102Z">
+        <seg>In cada manera, OmegaT at a presentare sa frase in custa manera:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10924,6 +10956,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184146Z" creationid="adria" creationdate="20181108T184146Z">
+        <seg>Is etichetas de OmegaT sunt in colore murru, in manera chi siant fàtziles de reconnòschere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text could not be translated</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T085236Z" creationid="adria" creationdate="20180817T085236Z">
@@ -11001,6 +11041,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T161627Z" creationid="adria" creationdate="20180902T161627Z">
         <seg>Custas unidades sunt istadas brincadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184227Z" creationid="adria" creationdate="20181108T184227Z">
+        <seg>Sunt protègidas, pro chi is cuntenutos non potzant èssere modificados, però ddas podes cantzellare, insertare a manu o ddas mòere in àteras positziones de sa frase tradùida.</seg>
       </tuv>
     </tu>
     <tu>
