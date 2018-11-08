@@ -5872,6 +5872,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T185833Z" creationid="adria" creationdate="20181108T185833Z">
+        <seg>Podet èssere ùtile chircare paràulas e frases in su testu de orìgine e in sa tradutzione: imprea su cuadru de diàlogu &lt;g1&gt;Chirca testu&lt;/g1&gt; tràmite is teclas &lt;k0&gt;Ctrl+F&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T155041Z" creationid="adria" creationdate="20180816T155041Z">
@@ -12482,6 +12490,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T145527Z" creationid="adria" creationdate="20180816T145527Z">
         <seg>Ses disinstallende su ditzionàriu de su curretore ortogràficu chi su progetu atuale tuo est impreende.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T185712Z" creationid="adria" creationdate="20181108T185712Z">
+        <seg>Podes agiùnghere tèrmines noos a su glossàriu cun is teclas &lt;k0&gt;Ctrl+majùscula+G&lt;/k0&gt;, o podes copiare glossàrios chi esistint giai in sa cartella &lt;f1&gt;/glossary/&lt;/f1&gt; de su progetu tuo, e OmegaT bi at a chircare paràulas in automàticu.</seg>
       </tuv>
     </tu>
     <tu>
