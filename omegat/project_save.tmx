@@ -2143,6 +2143,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T185200Z" creationid="adria" creationdate="20181108T185200Z">
+        <seg>A sa fine de sa tradutzione, OmegaT esporta tres memòrias de tradutzione cun su nòmine &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; e &lt;f2&gt;omegat&lt;/f2&gt; in sa cartella de su progetu tuo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T182026Z" creationid="adria" creationdate="20181108T182026Z">
@@ -11238,6 +11246,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T184951Z" creationid="adria" creationdate="20181108T184951Z">
         <seg>Su cuadru de diàlogu de propiedades de su progetu cuntenet is cunfiguratziones initziales de su progetu. Si ti ddas ismèntigas, ddu podes abèrrere cun &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T185108Z" creationid="adria" creationdate="20181108T185108Z">
+        <seg>Pro bìdere una lista de is archìvios de su progetu, aberi su cuadru de diàlogu &lt;g1&gt;Archìvios de su progetu&lt;/g1&gt; cun is teclas &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
