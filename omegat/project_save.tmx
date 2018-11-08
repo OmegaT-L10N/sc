@@ -4656,6 +4656,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Few more things to remember</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184546Z" creationid="adria" creationdate="20181108T184546Z">
+        <seg>Àteras cosas de importu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File</seg>
       </tuv>
       <tuv lang="SC">
@@ -5460,6 +5468,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T165649Z" creationid="adria" creationdate="20180902T165649Z">
         <seg>Si un’archìviu HHC o HHK cuntenet una decraratzione de codificatzione, at a èssere impreada sena cunsiderare is valores cunfigurados in custu cuadru de diàlogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184630Z" creationid="adria" creationdate="20181108T184630Z">
+        <seg>Si no resesses a carrigare un'archìviu in s'&lt;g0&gt;Editore&lt;/g0&gt; de OmegaT, podet dare chi siat in unu formadu non reconnotu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9462,6 +9478,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184708Z" creationid="adria" creationdate="20181108T184708Z">
+        <seg>Abbàida &lt;l1&gt;Filtros de archìviu&lt;/l1&gt; pro bìdere sa lista de formados reconnotos dae OmegaT. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T083117Z" creationid="adria" creationdate="20180817T083117Z">
@@ -11210,6 +11234,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184951Z" creationid="adria" creationdate="20181108T184951Z">
+        <seg>Su cuadru de diàlogu de propiedades de su progetu cuntenet is cunfiguratziones initziales de su progetu. Si ti ddas ismèntigas, ddu podes abèrrere cun &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T180730Z" creationid="adria" creationdate="20181108T175354Z">
@@ -12410,6 +12442,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T145527Z" creationid="adria" creationdate="20180816T145527Z">
         <seg>Ses disinstallende su ditzionàriu de su curretore ortogràficu chi su progetu atuale tuo est impreende.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184807Z" creationid="adria" creationdate="20181108T184807Z">
+        <seg>Podes creare unu progetu nou pro cada tarea noa, e semper podes agiùnghere archìvios de orìgine noos a unu progetu.</seg>
       </tuv>
     </tu>
     <tu>
