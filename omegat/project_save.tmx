@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1762,6 +1762,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T183319Z" creationid="adria" creationdate="20181108T183319Z">
+        <seg>Cando is archìvios de orìgine ant a èssere istados carrigados in s'&lt;g3&gt;Editore&lt;/g3&gt;, as a pòdere serrare su cuadru de diàlogu &lt;g4&gt;Archìvios de su progetu&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T181742Z" creationid="adria" creationdate="20181108T181742Z">
@@ -2692,6 +2700,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T144324Z" creationid="adria" creationdate="20180816T144324Z">
         <seg>Incarca s’elementu de su menù '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T183145Z" creationid="adria" creationdate="20181108T183145Z">
+        <seg>Incarca subra &lt;g1&gt;Còpia archìvios in sa cartella de orìgine...&lt;/g1&gt; pro seberare is archìvios de orìgine tuos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6972,8 +6988,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20181108T182210Z" creationid="adria" creationdate="20181108T182210Z">
-        <seg>A pustis, s'at a abèrrere su cuadru de diàlogu &lt;g0&gt;Archìvios de progetu&lt;/g0&gt;.</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T183104Z" creationid="adria" creationdate="20181108T182210Z">
+        <seg>A pustis, s'at a abèrrere su cuadru de diàlogu &lt;g0&gt;Archìvios de su progetu&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7450,6 +7466,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T175009Z">
         <seg>OmegaT s’at a serrare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T183231Z" creationid="adria" creationdate="20181108T183231Z">
+        <seg>OmegaT at a copiare is archìvios seletzionados in sa cartella &lt;f2&gt;/source/&lt;/f2&gt; de su progetu chi as creadu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11158,6 +11182,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T191524Z" creationid="adria" creationdate="20180815T191524Z">
         <seg>Tradùidu o de bortare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T183329Z" creationid="adria" creationdate="20181108T183329Z">
+        <seg>Borta s'archìviu</seg>
       </tuv>
     </tu>
     <tu>
