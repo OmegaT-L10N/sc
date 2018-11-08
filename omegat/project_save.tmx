@@ -2119,6 +2119,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T182026Z" creationid="adria" creationdate="20181108T182026Z">
+        <seg>In pitzu de cussu cuadru de diàlogu, sèbera sa limba de s'archìviu de orìgine e sa limba chi at a tènnere s'archìviu tradùidu, e incarca &lt;g1&gt;AB&lt;/g1&gt; pro sighire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T155730Z" creationid="adria" creationdate="20180816T155730Z">
