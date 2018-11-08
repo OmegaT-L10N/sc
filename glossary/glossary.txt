@@ -1,0 +1,74 @@
+cursor	puntadore	mouse cursor
+backup	còpia de seguresa
+source file	archìviu de orìgine
+user	usuàriu
+batch	blocu	translate in batches→tradui in blocos
+supported	cumpatìbile
+writeable	de iscritura
+commit	publicare
+target file	archìviu tradùidu
+command	òrdine
+remaining	de bortare
+source files	archìvios de orìgine
+tokeniser	tokenizadore
+tokenizer	tokenizadore
+source language	limba de orìgine
+target language	limba de sa tradutzione
+saving and output	sarvamentu e publicatzione
+translated files	archìvios tradùidos
+repository	depòsitu
+team project	progetu de iscuadra
+mapping	connessione
+pattern	règula
+URL	URL	maschile
+bold	grussitu
+whitespace	ispàtziu bòidu
+behaviour	cumportamentu
+handling	gestione
+layout	dispositzione
+see	abbàida	as in "see chapter 3"
+log	registru
+dock	apicare	verbu
+maximize	ismanniare
+minimize	minimizare
+undock	ispicare
+shutdown	istudada	noun
+font	tipografia
+server	servidore
+built-in	integradu
+timeout	tempus de isetu superadu / superamentu de su tempus de isetu
+launch	lantzare
+initialization	aviada
+button	butone
+user	usuàriu
+non-breakable space	ispàtziu indivisìbile
+proxy	servidore intermediàriu
+TM	MT	translation memory
+subscription	sutiscritzione
+load	carrigare
+instance	istàntzia
+read-only	letura isceti
+console	console	elementu de informàtica
+detect	rilevare
+update	atualizare
+automatically	in automàticu
+tab	tabuladore
+table	tabella
+alphabetically	in òrdine alfabèticu
+shortcut	incurtzadura
+key	tecla
+key	crae
+clear	limpiare
+character table	tabella de caràteres
+merge	unire
+aligner	alliniadore
+drop	tragare
+browse	navigare
+overwrite	subraiscrìere
+context menu	menù cuntestuale
+encoding	codificatzione
+unsupported	suportadu/-a
+subtitle	sutatìtulu
+dialog	cuadru de diàlogu
+image	immàgine
+lookup	consulta
