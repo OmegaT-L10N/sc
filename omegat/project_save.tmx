@@ -4896,6 +4896,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T185906Z" creationid="adria" creationdate="20181108T185906Z">
+        <seg>Leghe un'introdutzione prus cumpleta in sa ghia &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; de su situ web de OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T181946Z" creationid="adria" creationdate="20180815T181946Z">
@@ -5532,6 +5540,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T181323Z" creationid="adria" creationdate="20180816T161050Z">
         <seg>Si ses impreende unu servidore autenticadu, inserta inoghe su nòmine e sa crae.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T185941Z" creationid="adria" creationdate="20181108T185941Z">
+        <seg>Si ti serbit agiudu cun cale si siat aspetu de OmegaT, aderi a su &lt;u1&gt;grupu de usuàrios de OmegaT&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
