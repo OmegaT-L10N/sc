@@ -73,3 +73,4 @@ dialog	cuadru de diàlogu
 image	immàgine
 lookup	consulta
 Project Files	Archìvios de su progetu	cuadru de diàlogu de OmegaT
+press	prèmere	verbu "to press", pro su tecladu.
