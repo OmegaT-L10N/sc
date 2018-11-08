@@ -5008,6 +5008,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184453Z" creationid="adria" creationdate="20181108T184453Z">
+        <seg>Gènera s'archìviu tradùidu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>German</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T154251Z" creationid="adria" creationdate="20180816T154251Z">
@@ -7554,6 +7562,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T184102Z" creationid="adria" creationdate="20181108T184102Z">
         <seg>In cada manera, OmegaT at a presentare sa frase in custa manera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184540Z" creationid="adria" creationdate="20181108T184540Z">
+        <seg>Cando as a èssere seguru chi non bi sunt faddinas in is etichetas de sa tradutzione tua, preme &lt;k0&gt;Ctrl+D&lt;/k0&gt; pro generare is archìvios tradùidos, chi ant a èssere creados in sa cartella &lt;f1&gt;/target/&lt;/f1&gt; de su progetu tuo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11024,6 +11040,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T151409Z" creationid="adria" creationdate="20180816T151409Z">
         <seg>B’at àpidu una faddina in s’aviada de LanguageTool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T184445Z" creationid="adria" creationdate="20181108T184445Z">
+        <seg>Duncas, preme &lt;k0&gt;Ctrl+majùscula+V&lt;/k0&gt; in antis de generare is archìvios tradùidos pro controllare chi is etichetas sunt curretas.</seg>
       </tuv>
     </tu>
     <tu>
