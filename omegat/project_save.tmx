@@ -3904,6 +3904,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T183845Z" creationid="adria" creationdate="20181108T183845Z">
+        <seg>In sa tradutzione, imprea is menùs &lt;g4&gt;Modìfica&lt;/g4&gt; e &lt;g5&gt;Bae a&lt;/g5&gt; pro àteras funtziones ùtiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T154306Z" creationid="adria" creationdate="20180816T154306Z">
@@ -5484,6 +5492,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T193723Z">
         <seg>Si boles impreare in OmegaT sa matessi limba chi as impreadu durante s’installatzione, ativa sa casella in giosso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T183939Z" creationid="adria" creationdate="20181108T183939Z">
+        <seg>Si is archìvios de orìgine tuos tenent formadu, che a Microsoft Word, LibreOffice Writer o HTML, OmegaT at a cunvertire su formadu in etichetas a s'inghìriu de su testu chi ses bortende.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11932,6 +11948,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validate your tags</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T183853Z" creationid="adria" creationdate="20181108T183853Z">
+        <seg>Controlla is etichetas tuas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validating tags</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T092236Z" creationid="adria" creationdate="20180817T092236Z">
@@ -12066,6 +12090,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T104220Z" creationid="adria" creationdate="20180817T104220Z">
         <seg>Si est ativadu, is elementos in su pannellu de cumpletamentu automàticu de su glossàriu ant a inclùdere fintzas su testu de orìgine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T183747Z" creationid="adria" creationdate="20181108T183747Z">
+        <seg>Cando as a bòlere bìdere comente at a èssere sa tradutzione tua in su formadu finale, preme &lt;k2&gt;Ctrl+D&lt;/k2&gt; pro generare is documentos tradùidos, chi ant a èssere creados in sa cartella &lt;f3&gt;/target/&lt;/f3&gt; de su progetu tuo.</seg>
       </tuv>
     </tu>
     <tu>
