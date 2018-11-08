@@ -1778,6 +1778,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T183643Z" creationid="adria" creationdate="20181108T183502Z">
+        <seg>Cando as a àere tradùidu cada segmentu, preme &lt;k0&gt;Ctrl+U&lt;/k0&gt; pro mòere a su segmentu de bortare imbeniente (o &lt;k1&gt;Ctrl+majùscula+U&lt;/k1&gt; pro mòere a su segmentu tradùidu imbeniente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T153902Z" creationid="adria" creationdate="20180816T153902Z">
@@ -7466,6 +7474,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T175009Z">
         <seg>OmegaT s’at a serrare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T183347Z" creationid="adria" creationdate="20181108T183347Z">
+        <seg>OmegaT t'at a presentare unu segmentu de tradùere a sa borta.</seg>
       </tuv>
     </tu>
     <tu>
