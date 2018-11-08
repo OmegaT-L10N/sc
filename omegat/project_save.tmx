@@ -5536,6 +5536,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T185600Z" creationid="adria" creationdate="20181108T185600Z">
+        <seg>Si pones custos archìvios de memòria de tradutzione in sa cartella &lt;f6&gt;/tm/&lt;/f6&gt; de su progetu, OmegaT bi at a chircare in automàticu segmentos simigiantes, tzerriados "cointzidèntzias partziales" o "fuzzy matches". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T193723Z">
@@ -10801,6 +10809,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T185259Z" creationid="adria" creationdate="20181108T185259Z">
+        <seg>Is memòrias &lt;f3&gt;level1&lt;/f3&gt; e &lt;f4&gt;level2&lt;/f4&gt; podent èssere cumpartzidas cun is usuàrios de àteros programmas de tradutzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T085417Z" creationid="adria" creationdate="20180817T085417Z">
@@ -10880,6 +10896,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T190406Z" creationid="adria" creationdate="20180815T190406Z">
         <seg>Su còdighe de limba diat èssere xx-YY, xxx-YY, xx_YY o xxx_YY, in ue xx o xxx est su còdighe de sa limba e YY est su còdighe de sa regione o de su paisu (optzionale).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T185329Z" creationid="adria" creationdate="20181108T185329Z">
+        <seg>Sa memòria cun su nòmine &lt;f5&gt;omegat&lt;/f5&gt; podet èssere impreada cun OmegaT in progetos futuros.</seg>
       </tuv>
     </tu>
     <tu>
