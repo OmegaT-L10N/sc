@@ -5440,6 +5440,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T182139Z" creationid="adria" creationdate="20181108T182139Z">
+        <seg>Si boles modificare cale si siat cunfiguratzione de custu cuadru de diàlogu, bi podes torrare cando boles cun &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T181323Z" creationid="adria" creationdate="20180816T161050Z">
@@ -6958,6 +6966,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T110702Z" creationid="adria" creationdate="20180817T110702Z">
         <seg>Imbeniente →</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20181108T182210Z" creationid="adria" creationdate="20181108T182210Z">
+        <seg>A pustis, s'at a abèrrere su cuadru de diàlogu &lt;g0&gt;Archìvios de progetu&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
