@@ -2033,16 +2033,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180818T224054Z" creationid="adria" creationdate="20180818T224054Z">
-        <seg>In custa cartella esistit giai un’elementu cun su nùmene "{0}".</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181146Z" creationid="adria" creationdate="20180818T224054Z">
+        <seg>In custa cartella esistit giai un’elementu cun su  "{0}".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180818T230633Z" creationid="adria" creationdate="20180818T230633Z">
-        <seg>In custa cartella esistit giai un’elementu cun su nùmene "{0}".</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181146Z" creationid="adria" creationdate="20180818T230633Z">
+        <seg>In custa cartella esistit giai un’elementu cun su  "{0}".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4714,8 +4714,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Filename Variables:</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180902T164543Z" creationid="adria" creationdate="20180902T164543Z">
-        <seg>Variàbiles de nùmene de archìviu:</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181306Z" creationid="adria" creationdate="20180902T164543Z">
+        <seg>Variàbiles de nòmine de archìviu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5426,8 +5426,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180816T161050Z" creationid="adria" creationdate="20180816T161050Z">
-        <seg>Si ses impreende unu servidore autenticadu, inserta inoghe su nùmene e sa crae.</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181146Z" creationid="adria" creationdate="20180816T161050Z">
+        <seg>Si ses impreende unu servidore autenticadu, inserta inoghe su  e sa crae.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5803,8 +5803,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Item name is empty or missing</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180902T160228Z" creationid="adria" creationdate="20180902T160228Z">
-        <seg>Su nùmene de s’elementu est bòidu o ammancat.</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181146Z" creationid="adria" creationdate="20180902T160228Z">
+        <seg>Su  de s’elementu est bòidu o ammancat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7358,8 +7358,8 @@ inside the configuration folder.</seg>
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180817T080951Z" creationid="adria" creationdate="20180817T080951Z">
-        <seg>Non s’at permìtidu a OmegaT s’atzessu a sa propiedade de sistema chi cuntenet su nùmene de su sistema operativu tuo o a sa propiedade de sistema chi cuntenet sa cartella de inghitzu tua.</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181146Z" creationid="adria" creationdate="20180817T080951Z">
+        <seg>Non s’at permìtidu a OmegaT s’atzessu a sa propiedade de sistema chi cuntenet su  de su sistema operativu tuo o a sa propiedade de sistema chi cuntenet sa cartella de inghitzu tua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7810,24 +7810,24 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please enter the name of this set:</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180817T091655Z" creationid="adria" creationdate="20180817T091655Z">
-        <seg>Inserta·nche unu nùmene pro custu pachete:</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181146Z" creationid="adria" creationdate="20180817T091655Z">
+        <seg>Inserta·nche unu  pro custu pachete:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Please enter username/password</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180817T100119Z" creationid="adria" creationdate="20180817T100105Z">
-        <seg>Inserta·nche su nùmene de usuàriu/crae</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181146Z" creationid="adria" creationdate="20180817T100105Z">
+        <seg>Inserta·nche su  de usuàriu/crae</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Please enter your name/ID.</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180816T155030Z" creationid="adria" creationdate="20180816T155030Z">
-        <seg>Inserta·nche su nùmene o s’identificadore tuo.</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181318Z" creationid="adria" creationdate="20180816T155030Z">
+        <seg>Inserta·nche su nòmine o s’identificadore tuo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9760,8 +9760,8 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
       <tuv lang="EN">
         <seg>Show Raw Key Names</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180818T225447Z" creationid="adria" creationdate="20180818T225447Z">
-        <seg>Ammustra nùmenes de crae sena protzessare</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181146Z" creationid="adria" creationdate="20180818T225447Z">
+        <seg>Ammustra s de crae sena protzessare</seg>
       </tuv>
     </tu>
     <tu>
@@ -9920,16 +9920,16 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
       <tuv lang="EN">
         <seg>Source Filename Pattern</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180902T162728Z" creationid="adria" creationdate="20180902T162654Z">
-        <seg>Règula de nùmenes de archìvios de orìgine</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181243Z" creationid="adria" creationdate="20180902T162654Z">
+        <seg>Règula de nòmines de archìvios de orìgine</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source Filename Pattern:</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180902T164525Z" creationid="adria" creationdate="20180902T164525Z">
-        <seg>Règula de nùmenes de archìvios de orìgine:</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181257Z" creationid="adria" creationdate="20180902T164525Z">
+        <seg>Règula de nòmines de archìvios de orìgine:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11156,8 +11156,8 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       <tuv lang="EN">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180902T162740Z" creationid="adria" creationdate="20180902T162721Z">
-        <seg>Règula de nùmenenes de archìvios tradùidos</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181251Z" creationid="adria" creationdate="20180902T162721Z">
+        <seg>Règula de nòmines de archìvios tradùidos</seg>
       </tuv>
     </tu>
     <tu>
@@ -12120,8 +12120,8 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       <tuv lang="EN">
         <seg>Wrong username/password</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180817T100203Z" creationid="adria" creationdate="20180817T100114Z">
-        <seg>Su nùmene de usuàriu o sa crae no sunt curretos</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181146Z" creationid="adria" creationdate="20180817T100114Z">
+        <seg>Su  de usuàriu o sa crae no sunt curretos</seg>
       </tuv>
     </tu>
     <tu>
@@ -12411,8 +12411,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>file names</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20180815T191550Z" creationid="adria" creationdate="20180815T191550Z">
-        <seg>nùmenes de archìviu</seg>
+      <tuv lang="SC" changeid="adria" changedate="20181108T181235Z" creationid="adria" creationdate="20180815T191550Z">
+        <seg>nòmines de archìviu</seg>
       </tuv>
     </tu>
     <tu>
