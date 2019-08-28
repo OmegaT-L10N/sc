@@ -87,3 +87,5 @@ regular expression	espressione regulare
 initialize	incarrerare
 preferences	preferèntzias
 back up	còpia de seguresa	cando est impreadu che a verbu: "fàghere una còpia de seguresa"
+header	intestatzione
+variant	variante
