@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11883,6 +11883,16 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T150931Z" creationid="adria" creationdate="20180816T150931Z">
         <seg>Iscrie s’identificadore de sa règula noa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T083533Z" creationid="adria" creationdate="20190828T083533Z">
+        <seg>Genias:
+Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
       </tuv>
     </tu>
     <tu>
