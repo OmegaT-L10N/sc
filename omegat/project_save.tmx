@@ -2069,6 +2069,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T091625Z" creationid="adria" creationdate="20190828T091625Z">
+        <seg>Sa cartella de progetu de OmegaT est una cartella chi cuntenet archìvios e àteras cartellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred</seg>
       </tuv>
       <tuv lang="SC">
@@ -5658,6 +5666,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T091537Z" creationid="adria" creationdate="20190828T091537Z">
+        <seg>Tutoriales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T184335Z" creationid="adria" creationdate="20181108T184335Z">
@@ -7049,6 +7065,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T191450Z" creationid="adria" creationdate="20180815T191450Z">
         <seg>M&amp;emòria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T091544Z" creationid="adria" creationdate="20190828T091544Z">
+        <seg>Menùs</seg>
       </tuv>
     </tu>
     <tu>
@@ -8811,6 +8835,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T101023Z" creationid="adria" creationdate="20180817T101023Z">
         <seg>S’archìviu de progetu diat dèpere èssere in protocollu http.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T091600Z" creationid="adria" creationdate="20190828T091600Z">
+        <seg>Cartella de progetu</seg>
       </tuv>
     </tu>
     <tu>
@@ -11445,6 +11477,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source subfolder contains files to be translated.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T091701Z" creationid="adria" creationdate="20190828T091642Z">
+        <seg>Sa cartella source cuntenet is archìvios de bortare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T145702Z" creationid="adria" creationdate="20180816T145702Z">
@@ -13017,6 +13057,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add the files to it later.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T092351Z" creationid="adria" creationdate="20190828T092351Z">
+        <seg>Podes agiùnghere àteros archìvios a pustis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T184807Z" creationid="adria" creationdate="20181108T184807Z">
@@ -13314,6 +13362,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T120139Z" creationid="adria" creationdate="20180816T120139Z">
         <seg>slf4j (lissèntzia MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>source</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T091649Z" creationid="adria" creationdate="20190828T091632Z">
+        <seg>source</seg>
       </tuv>
     </tu>
     <tu>
