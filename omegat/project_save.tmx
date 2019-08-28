@@ -2450,6 +2450,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T085926Z" creationid="adria" creationdate="20190828T085926Z">
+        <seg>Espressione regulare non vàlida!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Belazar</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T170442Z" creationid="adria" creationdate="20180902T170442Z">
@@ -4442,6 +4450,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090019Z" creationid="adria" creationdate="20190828T090019Z">
+        <seg>Faddina in sa sostitutzione de un</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T082929Z" creationid="adria" creationdate="20180817T082929Z">
@@ -4518,6 +4534,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T165723Z" creationid="adria" creationdate="20180902T165723Z">
         <seg>Faddina in su sarvamentu de sa cunfiguratzione de règulas de segmentatzione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T085919Z" creationid="adria" creationdate="20190828T085919Z">
+        <seg>Faddina in sa chirca de s'àrbore de diretòrios.</seg>
       </tuv>
     </tu>
     <tu>
