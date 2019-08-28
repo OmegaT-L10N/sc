@@ -2424,6 +2424,14 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090515Z" creationid="adria" creationdate="20190828T090515Z">
+        <seg>Faghe una còpia de seguresa de is preferèntzias in {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>TRANSLATORS: This is a keyword or name for the background plugin which is used while searching</note>
       <tuv lang="EN">
         <seg>Background</seg>
@@ -4830,6 +4838,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T102043Z" creationid="adria" creationdate="20180817T102043Z">
         <seg>Istranas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090533Z" creationid="adria" creationdate="20190828T090533Z">
+        <seg>Faddina in sa còpia de seguresa de s’archìviu de preferèntzias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8303,6 +8319,16 @@ everything.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T194834Z" creationid="adria" creationdate="20180815T194834Z">
         <seg>Serra sa ventana de chirca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090614Z" creationid="adria" creationdate="20190828T090614Z">
+        <seg>Bide s’informe ({1}) pro agatare s’orìgine de sa faddina e torra·bi a proare.</seg>
       </tuv>
     </tu>
     <tu>
