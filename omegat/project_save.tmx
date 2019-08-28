@@ -5868,6 +5868,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100433Z" creationid="adria" creationdate="20190828T100433Z">
+        <seg>Si &lt;e0&gt;non depent&lt;/e0&gt; abarrare immunes a àteras modìficas, podes bogare su TMX dae /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100459Z" creationid="adria" creationdate="20190828T100459Z">
+        <seg>Si &lt;e0&gt;depent&lt;/e0&gt; abarrare immunes a àteras modìficas, lassa su TMX in /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T182139Z" creationid="adria" creationdate="20181108T182139Z">
@@ -6889,6 +6905,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20190828T100007Z" creationid="adria" creationdate="20190828T100007Z">
         <seg>Faghe una modìfica pitica in su progetu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make decision about immunity of the enforced segments:</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100357Z" creationid="adria" creationdate="20190828T100357Z">
+        <seg>Piga una detzisione subra de s’immunidade de is segmentos subraiscritos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9067,6 +9091,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20190828T095931Z" creationid="adria" creationdate="20190828T095931Z">
         <seg>Pone su TMX in /tm/auto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100213Z" creationid="adria" creationdate="20190828T100213Z">
+        <seg>Pone su TMX in /tm/enforce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11885,6 +11917,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20190828T100044Z" creationid="adria" creationdate="20190828T100044Z">
         <seg>Custu at a modificare su &lt;f0&gt;project_save.tmx&lt;/f0&gt; (agiunghende unidades de tradutzione de sa TMX "auto")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100235Z" creationid="adria" creationdate="20190828T100235Z">
+        <seg>Custu at a modificare su &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
