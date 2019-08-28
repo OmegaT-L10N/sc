@@ -5884,6 +5884,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100204Z" creationid="adria" creationdate="20190828T100204Z">
+        <seg>Si no tenes dudas chi unu TMX est prus pretzisu chi su &lt;f0&gt;project_save.tmx&lt;/f0&gt; de OmegaT, pone custu TMX in /tm/enforce pro subraiscrìere is tradutziones esistentes a prescìndere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T185941Z" creationid="adria" creationdate="20181108T185941Z">
@@ -6877,6 +6885,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make a slight change anywhere in the project.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100007Z" creationid="adria" creationdate="20190828T100007Z">
+        <seg>Faghe una modìfica pitica in su progetu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T150917Z" creationid="adria" creationdate="20180816T150917Z">
@@ -7730,6 +7746,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100105Z" creationid="adria" creationdate="20190828T100105Z">
+        <seg>Nota: si su TMX est bogada dae /tm/auto in antis de su passu 3, peruna unidade de tradutzione at a èssere agiunta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T164331Z" creationid="adria" creationdate="20180902T164331Z">
@@ -8154,6 +8178,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T101728Z" creationid="adria" creationdate="20180816T101543Z">
         <seg>Optziones pro su filtru Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the project.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T095935Z" creationid="adria" creationdate="20190828T095935Z">
+        <seg>Aberi su progetu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9027,6 +9059,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T095203Z" creationid="adria" creationdate="20180817T095203Z">
         <seg>Faddina in s’imbiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/auto.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T095931Z" creationid="adria" creationdate="20190828T095931Z">
+        <seg>Pone su TMX in /tm/auto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11442,6 +11482,14 @@ Chirca de currègere sa faddina e torra a carrigare su progetu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The changes are displayed.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T095951Z" creationid="adria" creationdate="20190828T095951Z">
+        <seg>Is modìficas ant a èssere ammustradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T192716Z">
@@ -11829,6 +11877,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T171724Z" creationid="adria" creationdate="20180815T171724Z">
         <seg>Su testu at a apàrrere in custa manera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100044Z" creationid="adria" creationdate="20190828T100044Z">
+        <seg>Custu at a modificare su &lt;f0&gt;project_save.tmx&lt;/f0&gt; (agiunghende unidades de tradutzione de sa TMX "auto")</seg>
       </tuv>
     </tu>
     <tu>
@@ -13554,6 +13610,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20190828T095745Z" creationid="adria" creationdate="20190828T095745Z">
         <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/enforce</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100107Z" creationid="adria" creationdate="20190828T100107Z">
+        <seg>tm/enforce</seg>
       </tuv>
     </tu>
     <tu>
