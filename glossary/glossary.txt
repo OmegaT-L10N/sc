@@ -78,3 +78,4 @@ shift	majùscula	tecla de su tecladu
 program	programma
 name	nòmine
 fuzzy match	cointzidèntzia partziale
+auto-sync	sincronizatzione in automàticu
