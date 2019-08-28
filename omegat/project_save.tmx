@@ -8973,6 +8973,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T084310Z" creationid="adria" creationdate="20190828T084310Z">
+        <seg>Is chircas de espressiones regulares agatant is espressiones regulares de Java documentadas in su manuale de susuàriu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reload</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180818T225615Z" creationid="adria" creationdate="20180818T225615Z">
