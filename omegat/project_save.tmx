@@ -11716,6 +11716,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T103123Z" creationid="adria" creationdate="20190828T103123Z">
+        <seg>Sa diferèntzia est pitica: tzerriamus "ventana" una ventana chi podet abarrare aberta a su costadu de s’editore e bi podet interagire. Unu "cuadru de diàlogu" est una ventana in ue depes seberare paràmetros in antis de dda serrare pro sighire cun sa tradutzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180818T225518Z" creationid="adria" creationdate="20180818T225518Z">
@@ -13277,6 +13285,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T163239Z" creationid="adria" creationdate="20180902T163239Z">
         <seg>Resursas de Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T103022Z" creationid="adria" creationdate="20190828T103022Z">
+        <seg>Ventanas e cuadros de diàlogu</seg>
       </tuv>
     </tu>
     <tu>
