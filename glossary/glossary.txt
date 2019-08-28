@@ -94,3 +94,4 @@ translation memory	memòria de tradutzione	TM - MT
 CAT tools	ainas TAE
 CAT	TAE	tradutzione assistida dae s'elaboradore
 computer-aided translation	tradutzione assistida dae s'elaboradore	computer-assisted translation
+penalty	penalizatzione
