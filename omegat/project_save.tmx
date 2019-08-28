@@ -2345,6 +2345,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T085422Z" creationid="adria" creationdate="20190828T085422Z">
+        <seg>Sincroniza in automàticu cun s’editore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T105327Z" creationid="adria" creationdate="20180817T105327Z">
@@ -6329,6 +6337,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T163946Z" creationid="adria" creationdate="20180902T163946Z">
         <seg>Testu còdighe=valore (key=value)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T085228Z" creationid="adria" creationdate="20190828T085228Z">
+        <seg>Is chircas de paràula crae no sunt a disponimentu in sa cadena de chirca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12315,6 +12331,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T085333Z" creationid="adria" creationdate="20190828T085333Z">
+        <seg>Imprea $n pro fàghere referèntzia a su grupu nùmeru n.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T120725Z" creationid="adria" creationdate="20180815T120725Z">
@@ -12601,6 +12625,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T104220Z" creationid="adria" creationdate="20180817T104220Z">
         <seg>Si est ativadu, is elementos in su pannellu de cumpletamentu automàticu de su glossàriu ant a inclùdere fintzas su testu de orìgine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T085307Z" creationid="adria" creationdate="20190828T085307Z">
+        <seg>In sa chirca cun espressiones regulares, sa cadena de sostitutzione est cumpatìbile cun referèntzias a grupos definidos in sa cadena de chirca.</seg>
       </tuv>
     </tu>
     <tu>
