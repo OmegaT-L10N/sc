@@ -7642,6 +7642,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T093625Z" creationid="adria" creationdate="20190828T093625Z">
+        <seg>Dae cara chi is àteras ainas TAC podent esportare (e importare puru) archìvios TMX in is tres variantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20190828T092522Z" creationid="adria" creationdate="20190828T092413Z">
@@ -10886,6 +10894,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such files can be created in any of the three varieties indicated above.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T093351Z" creationid="adria" creationdate="20190828T093351Z">
+        <seg>Custos archìvios podent èssere creados in cale si siat de is variantes indicadas a subra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Summary</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T160526Z" creationid="adria" creationdate="20180902T160526Z">
@@ -11306,8 +11322,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20190828T093224Z" creationid="adria" creationdate="20190828T093224Z">
-        <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      <tuv lang="SC" changeid="adria" changedate="20190828T093329Z" creationid="adria" creationdate="20190828T093224Z">
+        <seg>Sa cartella /tm/ podet cuntènnere una o prus memòrias de tradutzione segundàrias, est a nàrrere, archìvios TMX.</seg>
       </tuv>
     </tu>
     <tu>
