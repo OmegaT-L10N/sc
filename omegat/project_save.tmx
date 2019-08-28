@@ -5210,6 +5210,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101206Z" creationid="adria" creationdate="20190828T101206Z">
+        <seg>Sa pertzentuale de is memòrias de tradutzione de sa cartella &lt;f0&gt;penalty-xxx&lt;/f0&gt; (in ue xxx est unu nùmeru intre 0 e 100) at a èssere degradada de acordu cun su nòmine de sa cartella: una cointzidèntzia de su 100% in cale si siat MT at a devènnere, cando ispostada pro esempru in una cartella &lt;f1&gt;penalty-30&lt;/f1&gt;, at a èssere abassada finas a su 70%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T162943Z" creationid="adria" creationdate="20180902T162943Z">
