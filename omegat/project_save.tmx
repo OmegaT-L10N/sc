@@ -2241,6 +2241,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T093927Z" creationid="adria" creationdate="20190828T093927Z">
+        <seg>Cale si siat testu giai bortadu e sarvadu in cussos archìvios at a cumparire in sa lista de cointzidèntzias partziales, si est bastante sìmile a su testu chi ses bortende.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T120114Z" creationid="adria" creationdate="20180816T120114Z">
@@ -5832,6 +5840,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T164449Z" creationid="adria" creationdate="20180902T164449Z">
         <seg>Si su filtru tenet optziones, ddas as a pòdere cambiare incarchende Optziones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T094121Z" creationid="adria" creationdate="20190828T094121Z">
+        <seg>Si su segmentu de orìgine in una de is MT segundàrias est idènticu a su testu chi ses bortende, OmegaT at a agire de acordu cun is preferèntzias in su cuadru de diàlogu &lt;m0&gt; &lt;g1&gt;Optziones&lt;/g1&gt; &lt;g2&gt;Editore...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11407,6 +11423,14 @@ instead.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20190828T093049Z" creationid="adria" creationdate="20190828T093049Z">
         <seg>Is cuntenutos de sa cartella target ant a riflètere s’istadu atuale de sa tradutzione, comente sunt in sa memòria de tradutzione de su progetu, sarvada in &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of translation memories in the tm subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T093824Z" creationid="adria" creationdate="20190828T093824Z">
+        <seg>Is cuntenutos de is memòrias de tradutzione in sa cartella tm serbint a generare propostas pro su testu/-os de bortare.</seg>
       </tuv>
     </tu>
     <tu>
