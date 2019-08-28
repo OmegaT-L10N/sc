@@ -3337,6 +3337,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not initialize OS look and feel!</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090922Z" creationid="adria" creationdate="20190828T090922Z">
+        <seg>Impossìbile incarrerare s’aspetu de su sistema operativu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not save credentials to text file</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T170636Z" creationid="adria" creationdate="20180902T170636Z">
@@ -11272,6 +11280,16 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090731Z" creationid="adria" creationdate="20190828T090731Z">
+        <seg>S’archìviu TMX non podet èssere carrigadu
+Chirca de currègere sa faddina e torra a carrigare su progetu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T161700Z" creationid="adria" creationdate="20180902T161700Z">
@@ -11990,6 +12008,22 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T093227Z" creationid="adria" creationdate="20180817T093227Z">
         <seg>Sa cartella de memòrias de tradutzione {0} no esistet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090811Z" creationid="adria" creationdate="20190828T090811Z">
+        <seg>Unidade de tradutzione agatada in antis de s’intestatzione de TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090854Z" creationid="adria" creationdate="20190828T090854Z">
+        <seg>Variante de unidade de tradutzione agatada in foras de s’unidade de tradutzione.</seg>
       </tuv>
     </tu>
     <tu>
