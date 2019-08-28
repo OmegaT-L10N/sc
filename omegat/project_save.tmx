@@ -2416,6 +2416,14 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T085454Z" creationid="adria" creationdate="20190828T085454Z">
+        <seg>Torra a su segmentu initziale cando serras su diàlogu</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>TRANSLATORS: This is a keyword or name for the background plugin which is used while searching</note>
       <tuv lang="EN">
         <seg>Background</seg>
@@ -4662,6 +4670,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T184101Z" creationid="adria" creationdate="20180815T184101Z">
         <seg>Esclude règula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T085503Z" creationid="adria" creationdate="20190828T085503Z">
+        <seg>Esclude segmentos òrfanos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6961,6 +6977,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T163522Z" creationid="adria" creationdate="20180902T163522Z">
         <seg>Longària màssima de lìnia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T085836Z" creationid="adria" creationdate="20190828T085836Z">
+        <seg>Lòmpidu a su nùmeru màssimu de cointzidèntzias ({0})</seg>
       </tuv>
     </tu>
     <tu>
