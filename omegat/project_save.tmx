@@ -5362,6 +5362,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="SC">
+        <seg>Bae a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T122404Z" creationid="adria" creationdate="20180815T122404Z">
@@ -6321,6 +6329,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T163946Z" creationid="adria" creationdate="20180902T163946Z">
         <seg>Testu còdighe=valore (key=value)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T084225Z" creationid="adria" creationdate="20190828T084225Z">
+        <seg>Is chircas de paràula crae agatant is paràulas crae separadas dae ispàtzios a prescìndere dae s'òrdine issoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8448,6 +8464,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180819T150833Z" creationid="adria" creationdate="20180819T150833Z">
         <seg>Preferèntzias - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="SC">
+        <seg>Preferèntzias...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11000,6 +11024,15 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T100501Z" creationid="adria" creationdate="20180817T100501Z">
         <seg>Sincronizatzione iscuadra: isetende chi acabbes custu segmentu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>TRANSLATORS: Default app header title. Application name.TRANSLATORS: Application name.</note>
+      <tuv lang="EN">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="SC">
+        <seg>Telegram</seg>
       </tuv>
     </tu>
     <tu>
