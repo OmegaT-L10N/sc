@@ -79,3 +79,4 @@ program	programma
 name	nòmine
 fuzzy match	cointzidèntzia partziale
 auto-sync	sincronizatzione in automàticu
+reach	lòmpere	reached
