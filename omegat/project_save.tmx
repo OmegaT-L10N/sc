@@ -11304,6 +11304,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T093224Z" creationid="adria" creationdate="20190828T093224Z">
+        <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T185259Z" creationid="adria" creationdate="20181108T185259Z">
@@ -11367,6 +11375,14 @@ instead.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T144233Z" creationid="adria" creationdate="20180816T144233Z">
         <seg>S’at a impreare in càmbiu sa cartella de cunfiguratzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T093049Z" creationid="adria" creationdate="20190828T093049Z">
+        <seg>Is cuntenutos de sa cartella target ant a riflètere s’istadu atuale de sa tradutzione, comente sunt in sa memòria de tradutzione de su progetu, sarvada in &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12478,6 +12494,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segments will hereby remain in the source language.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T093105Z" creationid="adria" creationdate="20190828T093105Z">
+        <seg>Is segmentos sena tradutzione ant a abarrare in sa limba de orìgine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updated</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180818T134223Z" creationid="adria" creationdate="20180818T134223Z">
@@ -13418,6 +13442,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20190828T092536Z" creationid="adria" creationdate="20190828T092536Z">
         <seg>target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T093107Z" creationid="adria" creationdate="20190828T093107Z">
+        <seg>tm</seg>
       </tuv>
     </tu>
     <tu>
