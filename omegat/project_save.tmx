@@ -11677,6 +11677,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101342Z" creationid="adria" creationdate="20190828T101342Z">
+        <seg>Sa penalizatzione at a èssere aplicada a is tres pertzentuales de cointzidèntzia: is cointzidèntzias de su 75, 80 e 90 diant èssere in custu casu abassadas finas a 45, 50 e 60.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T092719Z" creationid="adria" creationdate="20180817T092719Z">
@@ -13520,6 +13528,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T090934Z" creationid="adria" creationdate="20180817T090934Z">
         <seg>annulladu ({0} ms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101345Z" creationid="adria" creationdate="20190828T101345Z">
+        <seg>dictionary</seg>
       </tuv>
     </tu>
     <tu>
