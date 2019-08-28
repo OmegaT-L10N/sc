@@ -7634,6 +7634,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the structure of the source subfolder may take any form you like.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T092522Z" creationid="adria" creationdate="20190828T092413Z">
+        <seg>Dae cara chi s’istrutura de sa cartella source podet tènnere sa forma chi boles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T165904Z" creationid="adria" creationdate="20180902T165904Z">
@@ -11721,6 +11729,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This subfolder is initially empty.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T092546Z" creationid="adria" creationdate="20190828T092546Z">
+        <seg>Custa cartella a su cumintzu est bòida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will discard all changes you have made so far.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180818T230801Z" creationid="adria" creationdate="20180818T230801Z">
@@ -11733,6 +11749,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T170107Z" creationid="adria" creationdate="20180902T170107Z">
         <seg>Pro esempru, is règulas pro su frantzesu canadesu (FR-CA) diant dèpere èssere prus artas de cussas pro su frantzesu (FR.*) e prus artas chi is predefinidas (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T092651Z" creationid="adria" creationdate="20190828T092651Z">
+        <seg>Pro bi agiùnghere cuntenutos, sèbera &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Progetu&lt;/g5&gt; &lt;g6&gt;Crea is documentos traduidos&lt;/g6&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13378,6 +13402,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T165224Z" creationid="adria" creationdate="20180902T165224Z">
         <seg>src (URL de &amp;immàgines)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T092536Z" creationid="adria" creationdate="20190828T092536Z">
+        <seg>target</seg>
       </tuv>
     </tu>
     <tu>
