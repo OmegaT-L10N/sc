@@ -4452,8 +4452,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Error during regular expression replacement:</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20190828T090019Z" creationid="adria" creationdate="20190828T090019Z">
-        <seg>Faddina in sa sostitutzione de un</seg>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090052Z" creationid="adria" creationdate="20190828T090019Z">
+        <seg>Faddina in sa sostitutzione de un’espressione regulare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4540,8 +4540,8 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20190828T085919Z" creationid="adria" creationdate="20190828T085919Z">
-        <seg>Faddina in sa chirca de s'àrbore de diretòrios.</seg>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090027Z" creationid="adria" creationdate="20190828T085919Z">
+        <seg>Faddina in sa chirca de s’àrbore de diretòrios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5470,6 +5470,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T120136Z" creationid="adria" creationdate="20180816T120136Z">
         <seg>Groovy (lissèntzia Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090108Z" creationid="adria" creationdate="20190828T090108Z">
+        <seg>Su grupu {0} no esistit in s’espressione de chirca</seg>
       </tuv>
     </tu>
     <tu>
@@ -12102,6 +12110,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T183917Z" creationid="adria" creationdate="20180815T183917Z">
         <seg>Impossìbile iscarrigare su progetu de iscuadra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T090203Z" creationid="adria" creationdate="20190828T090203Z">
+        <seg>Impossìbile incarrerare sa letura de s’archìviu XML.</seg>
       </tuv>
     </tu>
     <tu>
