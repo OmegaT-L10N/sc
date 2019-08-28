@@ -6076,6 +6076,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially empty, this folder will contain dictionaries you have added to the project.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101418Z" creationid="adria" creationdate="20190828T101418Z">
+        <seg>Custa cartella, bòida a su cumintzu, at a cuntènnere is ditzionàrios chi as a agiùnghere a su progetu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initially load this many segments:</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T155926Z" creationid="adria" creationdate="20180816T155926Z">
@@ -6329,6 +6337,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T180333Z" creationid="adria" creationdate="20180815T180333Z">
         <seg>Faddina in sa creatzione de is documentos tradùidos, ca tzertas etichetas ammancant o sunt dannigiadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will contain glossaries you will be using in the project.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101509Z" creationid="adria" creationdate="20190828T101509Z">
+        <seg>At a cuntènnere is glossàrios chi as a impreare in su progetu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10108,6 +10124,22 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101537Z" creationid="adria" creationdate="20190828T101449Z">
+        <seg>As a agatare prus informatziones a pitzus de custu argumentu in &lt;l0&gt;Ditzionàrios&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101544Z" creationid="adria" creationdate="20190828T101525Z">
+        <seg>As a agatare prus informatziones a pitzus de custu argumentu in &lt;l0&gt;Glossàrios&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T184708Z" creationid="adria" creationdate="20181108T184708Z">
@@ -11488,6 +11520,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101610Z" creationid="adria" creationdate="20190828T101610Z">
+        <seg>Sa cartella &lt;e0&gt;omegat&lt;/e0&gt; at a cuntènnere a su mancu un’archìviu, e forsis meda àteros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T185259Z" creationid="adria" creationdate="20181108T185259Z">
@@ -11641,6 +11681,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T185329Z" creationid="adria" creationdate="20181108T185329Z">
         <seg>Sa memòria cun su nòmine &lt;f5&gt;omegat&lt;/f5&gt; podet èssere impreada cun OmegaT in progetos futuros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101653Z" creationid="adria" creationdate="20190828T101653Z">
+        <seg>Su prus archìviu importante est &lt;f1&gt;project_save.tmx, &lt;/f1&gt;sa memòria de tradutzione de traballu de su progetu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11925,6 +11973,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T101439Z" creationid="adria" creationdate="20180817T101439Z">
         <seg>Custa òrdine at a èssere esecutada a pustis de sa creatzione de is documentos tradùidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This folder is initially empty.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101459Z" creationid="adria" creationdate="20190828T101459Z">
+        <seg>Custa cartella est bòida a su cumintzu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13572,6 +13628,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101450Z" creationid="adria" creationdate="20190828T101450Z">
+        <seg>glossary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T165312Z" creationid="adria" creationdate="20180902T165312Z">
@@ -13650,6 +13714,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T120150Z" creationid="adria" creationdate="20180816T120150Z">
         <seg>mALIGNa (lissèntzia MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101546Z" creationid="adria" creationdate="20190828T101546Z">
+        <seg>omegat</seg>
       </tuv>
     </tu>
     <tu>
