@@ -2458,6 +2458,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101827Z" creationid="adria" creationdate="20190828T101827Z">
+        <seg>Is còpias de seguresa de custu archìviu (cun s’estensione bak) sunt agiuntas in manera progressiva a custa cartella, prima a su cumintzu de sa sessione de tradutzione, a sa fine e durante is progressos de tradutzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T181522Z" creationid="adria" creationdate="20180815T194820Z">
@@ -4158,6 +4166,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T094231Z" creationid="adria" creationdate="20180817T094231Z">
         <seg>Durante sa faddina SVN ({0}), s’archìviu project_save.tmx no est istadu carrigadu e SVN est coladu a un’istadu no istàbile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During translation additional files may get created in this subfolder as follows</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101914Z" creationid="adria" creationdate="20190828T101914Z">
+        <seg>Durante sa tradutzione, podet dare chi is archìvios imbenientes ant a èssere creados in custa cartella</seg>
       </tuv>
     </tu>
     <tu>
@@ -13443,6 +13459,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can view it by selecting &lt;g0&gt;Tools &gt; Statistics&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101948Z" creationid="adria" creationdate="20190828T101948Z">
+        <seg>Ddas podes bìdere seletzionende &lt;g0&gt;Ainas &gt; Istatìsticas&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You currently have {1}.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T192917Z" creationid="adria" creationdate="20180815T192917Z">
@@ -13584,6 +13608,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T090934Z" creationid="adria" creationdate="20180817T090934Z">
         <seg>annulladu ({0} ms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>contains the current statistics of the current project.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101929Z" creationid="adria" creationdate="20190828T101929Z">
+        <seg>cuntenet is istatìsticas atuales de su progetu abertu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13754,6 +13786,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T165224Z" creationid="adria" creationdate="20180902T165224Z">
         <seg>src (URL de &amp;immàgines)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>stats.txt</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101915Z" creationid="adria" creationdate="20190828T101915Z">
+        <seg>stats.txt</seg>
       </tuv>
     </tu>
     <tu>
