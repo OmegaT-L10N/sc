@@ -6012,6 +6012,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100719Z" creationid="adria" creationdate="20190828T100719Z">
+        <seg>Cando, in s’editore, una cointzidèntzia est insertada dae unu TMX de sa cartella &lt;f0&gt;mt&lt;/f0&gt;, s’isfundu de su segmentu ativu at a devènnere ruju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include Pattern</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T184107Z" creationid="adria" creationdate="20180815T184107Z">
@@ -7772,8 +7780,16 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20190828T100105Z" creationid="adria" creationdate="20190828T100105Z">
-        <seg>Nota: si su TMX est bogada dae /tm/auto in antis de su passu 3, peruna unidade de tradutzione at a èssere agiunta.</seg>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100523Z" creationid="adria" creationdate="20190828T100105Z">
+        <seg>Nota: si su TMX est bogadu dae /tm/auto in antis de su passu 3, peruna unidade de tradutzione at a èssere agiunta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: if TMX is removed from /tm/enforce before step 3, enforcements aren't kept at all.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100559Z" creationid="adria" creationdate="20190828T100519Z">
+        <seg>Nota: si su TMX est bogadu dae /tm/enforce in antis de su passu 3, is segmentos subraiscritos no ant a èssere cunservados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10636,6 +10652,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes, it is useful to distinguish between high-quality translation memories and those that are, because of the subject matter, client, revision status, etc., less reliable.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100849Z" creationid="adria" creationdate="20190828T100849Z">
+        <seg>A bortas, pro more de diferèntzias a subra de s’argumentu, de su cliente, de s’istadu de sa revisione, etc., cumbenit a diferentziare intre memòrias de tradutzione de arta calidade e àteras de prus pagu calidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="SC">
@@ -11502,6 +11526,14 @@ Chirca de currègere sa faddina e torra a carrigare su progetu.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T192655Z">
         <seg>S’URL depet inclùdere "{target}", chi at a èssere sostituidu cun su testu de chirca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The background is restored to normal when the segment is left.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100734Z" creationid="adria" creationdate="20190828T100734Z">
+        <seg>S’isfundu at a torrare normale cando as a lassare su segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13658,6 +13690,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20190828T100107Z" creationid="adria" creationdate="20190828T100107Z">
         <seg>tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/mt</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100600Z" creationid="adria" creationdate="20190828T100600Z">
+        <seg>tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T100735Z" creationid="adria" creationdate="20190828T100735Z">
+        <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
