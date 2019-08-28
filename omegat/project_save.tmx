@@ -11030,6 +11030,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T095621Z" creationid="adria" creationdate="20190828T095621Z">
+        <seg>Is archìvios TMX sunt lèghidos in òrdine alfabèticu, e is segmentos a intro de un’archìviu TMX de lìnia in lìnia. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T170950Z" creationid="adria" creationdate="20180902T170950Z">
