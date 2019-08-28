@@ -5908,6 +5908,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T102258Z" creationid="adria" creationdate="20190828T102140Z">
+        <seg>Si as giai regortu paràulas chi depent èssere innioradas o atzetadas dae su curretore ortogràficu, depes isceti copiare is duos archìvios chi currispondent in sa cartella &lt;f0&gt;omegat&lt;/f0&gt; de su progetu abertu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T182139Z" creationid="adria" creationdate="20181108T182139Z">
@@ -13596,6 +13604,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>are created and used by the spell checker.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T102152Z" creationid="adria" creationdate="20190828T102051Z">
+        <seg>sunt archìvios creados e impreados dae su curretore ortogràficu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>attributes.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T161138Z" creationid="adria" creationdate="20180902T161138Z">
@@ -13700,6 +13716,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101949Z" creationid="adria" creationdate="20190828T101949Z">
+        <seg>ignored_words.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
@@ -13730,6 +13754,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T165302Z" creationid="adria" creationdate="20180902T165302Z">
         <seg>lan&amp;g (atributu de limba)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>learned_words.txt</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T101950Z" creationid="adria" creationdate="20190828T101950Z">
+        <seg>learned_words.txt</seg>
       </tuv>
     </tu>
     <tu>
