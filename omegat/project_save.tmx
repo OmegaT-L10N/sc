@@ -6356,6 +6356,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also contains installation instructions.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T103248Z" creationid="adria" creationdate="20190828T103248Z">
+        <seg>Cuntenet fintzas istrutziones de installatzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T185833Z" creationid="adria" creationdate="20181108T185833Z">
@@ -8034,6 +8042,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 4.2 - User's Guide</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T103209Z" creationid="adria" creationdate="20190828T103209Z">
+        <seg>Manuale de usuàriu de OmegaT 4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T091748Z" creationid="adria" creationdate="20180817T091748Z">
@@ -8128,6 +8144,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T174604Z" creationid="adria" creationdate="20180815T174604Z">
         <seg>OmegaT est abarradu sena memòria, e at a essire cando as a incarcare AB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T103212Z" creationid="adria" creationdate="20190828T103212Z">
+        <seg>Iscuadra de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -10766,8 +10790,8 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
       <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
-      <tuv lang="SC">
-        <seg>Perdonade·nos</seg>
+      <tuv lang="SC" changeid="adria" changedate="20190828T103317Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -12049,6 +12073,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T103239Z" creationid="adria" creationdate="20190828T103239Z">
+        <seg>Custu documentu est su manuale de usuàriu ufitziale de OmegaT, s’aina de tradutzione assistida dae s'elaboradore lìbera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20190828T101459Z" creationid="adria" creationdate="20190828T101459Z">
@@ -13209,6 +13241,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T103330Z" creationid="adria" creationdate="20190828T103330Z">
+        <seg>No amus pòdidu agatare sa pàgina chi ses chirchende.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T163925Z" creationid="adria" creationdate="20180902T163925Z">
@@ -13527,6 +13567,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
       <tuv lang="SC" changeid="adria" changedate="20180816T094825Z" creationid="adria" creationdate="20180815T172013Z">
         <seg>Podes agatare istatìsticas dislindadas in s’archìviu:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T103408Z" creationid="adria" creationdate="20190828T103408Z">
+        <seg>Podes andare a sa &lt;a0&gt;pàgina initziale&lt;/a0&gt; a chircare s’informatzione chi ti serbit.</seg>
       </tuv>
     </tu>
     <tu>
