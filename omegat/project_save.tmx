@@ -5202,6 +5202,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T094321Z" creationid="adria" creationdate="20190828T094304Z">
+        <seg>Pro esempru (si su cumportamentu predefinidu est atzetadu), sa tradutzione dae sa MT segundària est atzetada cun su prefissu &lt;e3&gt; [fuzzy]&lt;/e3&gt;, in manera chi su tradutore potzat revisionare is tradutziones a pustis e controllare si is segmentos etichetados aici sunt istados bortados in manera curreta&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T162943Z" creationid="adria" creationdate="20180902T162943Z">
@@ -6240,6 +6248,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T155041Z" creationid="adria" creationdate="20180816T155041Z">
         <seg>At a èssere impreadu pro marcare is tradutziones tuas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T094359Z" creationid="adria" creationdate="20190828T094359Z">
+        <seg>Podet dare chi prus memòrias de tradutzione a disponimentu in sa cartella &lt;f0&gt;tm&lt;/f0&gt; cuntèngiant segmentos cun unu testu de orìgine idènticu però tradutziones diferentes.</seg>
       </tuv>
     </tu>
     <tu>
