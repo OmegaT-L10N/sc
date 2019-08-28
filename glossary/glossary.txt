@@ -80,3 +80,6 @@ name	nòmine
 fuzzy match	cointzidèntzia partziale
 auto-sync	sincronizatzione in automàticu
 reach	lòmpere	reached
+directory tree	àrbore de diretòrios
+error	faddina
+replace	sostituire|sostitutzione
