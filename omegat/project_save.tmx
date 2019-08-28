@@ -6335,8 +6335,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20190828T084225Z" creationid="adria" creationdate="20190828T084225Z">
-        <seg>Is chircas de paràula crae agatant is paràulas crae separadas dae ispàtzios a prescìndere dae s'òrdine issoro.</seg>
+      <tuv lang="SC" changeid="adria" changedate="20190828T084655Z" creationid="adria" creationdate="20190828T084225Z">
+        <seg>Is chircas de paràula crae agatant is paràulas crae separadas dae ispàtzios a prescìndere dae s’òrdine issoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8975,8 +8975,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
-      <tuv lang="SC" changeid="adria" changedate="20190828T084310Z" creationid="adria" creationdate="20190828T084310Z">
-        <seg>Is chircas de espressiones regulares agatant is espressiones regulares de Java documentadas in su manuale de susuàriu. </seg>
+      <tuv lang="SC" changeid="adria" changedate="20190828T084700Z" creationid="adria" creationdate="20190828T084310Z">
+        <seg>Is chircas de espressiones regulares agatant is espressiones regulares de Java documentadas in su manuale de s’usuàriu. </seg>
       </tuv>
     </tu>
     <tu>
