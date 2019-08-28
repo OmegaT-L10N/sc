@@ -97,3 +97,4 @@ computer-aided translation	tradutzione assistida dae s'elaboradore	computer-assi
 penalty	penalizatzione
 spell checker	curretore ortogràficu	spellchecker
 GUI	IGU	interfache gràfica de usuàriu
+troubleshooting	solutzione de problemas
