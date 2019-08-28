@@ -5058,6 +5058,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T092835Z" creationid="adria" creationdate="20190828T092835Z">
+        <seg>Is archìvios in sa cartella &lt;f7&gt;source&lt;/f7&gt;, traduidos o nono, ant a èssere generados inoghe, cun sa pròpia gerarchia de sa cartella source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="SC">
