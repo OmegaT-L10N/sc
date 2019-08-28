@@ -83,3 +83,5 @@ reach	lòmpere	reached
 directory tree	àrbore de diretòrios
 error	faddina
 replace	sostituire|sostitutzione
+regular expression	espressione regulare
+initialize	incarrerare
