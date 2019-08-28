@@ -89,3 +89,8 @@ preferences	preferèntzias
 back up	còpia de seguresa	cando est impreadu che a verbu: "fàghere una còpia de seguresa"
 header	intestatzione
 variant	variante
+ancillary	segundàriu	ancillary TM - MT segundàrias
+translation memory	memòria de tradutzione	TM - MT
+CAT tools	ainas TAE
+CAT	TAE	tradutzione assistida dae s'elaboradore
+computer-aided translation	tradutzione assistida dae s'elaboradore	computer-assisted translation
