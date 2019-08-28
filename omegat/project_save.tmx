@@ -1473,6 +1473,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T102614Z" creationid="adria" creationdate="20190828T102614Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T110406Z" creationid="adria" creationdate="20180817T110406Z">
@@ -1792,6 +1800,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T143357Z" creationid="adria" creationdate="20180816T143357Z">
         <seg>Atziones e cunfiguratziones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T102836Z" creationid="adria" creationdate="20190828T102836Z">
+        <seg>tocat a ativare s’optzione "Ammustra archìvios cuados" pro dda bìdere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6012,6 +6028,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T102707Z" creationid="adria" creationdate="20190828T102707Z">
+        <seg>In progetos de iscuadra, custa cartella cuntenet una còpia versionada de s’istrutura de àrbore de progetu acapiada de deretu a su servidore remotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In comments</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T191100Z" creationid="adria" creationdate="20180815T191054Z">
@@ -6040,6 +6064,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T191513Z">
         <seg>In s’&amp;originale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some operating systems, this folder is not displayed by default.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T102817Z" creationid="adria" creationdate="20190828T102806Z">
+        <seg>In carchi sistema operativu, custa cartella no est ammustrada in manera predefinida e</seg>
       </tuv>
     </tu>
     <tu>
@@ -12460,6 +12492,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Troubleshooting</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T103000Z" creationid="adria" creationdate="20190828T103000Z">
+        <seg>Solutzione de problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
       <tuv lang="SC">
@@ -13471,6 +13511,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
       <tuv lang="SC" changeid="adria" changedate="20180816T094825Z" creationid="adria" creationdate="20180815T172013Z">
         <seg>Podes agatare istatìsticas dislindadas in s’archìviu:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T102736Z" creationid="adria" creationdate="20190828T102736Z">
+        <seg>Podes fàghere modìficas a is archìvios remotos (pro esempru, cantzellare un’archìviu) impreende custa cartella e unu cliente Git o SVN.</seg>
       </tuv>
     </tu>
     <tu>
