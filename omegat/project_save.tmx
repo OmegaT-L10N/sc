@@ -11378,6 +11378,14 @@ Chirca de currègere sa faddina e torra a carrigare su progetu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20190828T093749Z" creationid="adria" creationdate="20190828T093749Z">
+        <seg>Su mègius est de impreare is archìvios TMX ispetzìficos de OmegaT (abbàida a subra), in manera chi su formadu in lìnia a intro de su segmentu siat cunservadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T192716Z">
