@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T095627Z" creationid="adria" creationdate="20191110T095627Z">
+        <seg>Chirca su testu de su segmentu in su ditzionàriu in manera &amp;automàtica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T174320Z" creationid="adria" creationdate="20180815T174320Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T073737Z" creationid="adria" creationdate="20180817T073737Z">
         <seg>&amp;Non controlles is variàbiles printf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102701Z" creationid="adria" creationdate="20191110T102701Z">
+        <seg>No iscapes is literales de Unicode (\uXXXX)</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,10 +518,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T103712Z" creationid="adria" creationdate="20191110T103712Z">
+        <seg>"&amp;Bae a su segmentu sena tradutzione imbeniente" si firmat cando b'est a su mancu una tradutzione alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="SC">
         <seg>&amp;Agiudu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T103309Z" creationid="adria" creationdate="20191110T103309Z">
+        <seg>&amp;Inniora su cuntestu de archìviu cando siant individuados segmentos cun tradutziones alternativas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1752,6 +1784,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180819T151600Z" creationid="adria" creationdate="20180819T151600Z">
         <seg>Isceti ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102836Z" creationid="adria" creationdate="20191110T102836Z">
+        <seg>Aaron Madlon-Kay est su gestore de su progetu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3569,6 +3609,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T095648Z" creationid="adria" creationdate="20191110T095648Z">
+        <seg>Puntadore blocadu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T095653Z" creationid="adria" creationdate="20191110T095653Z">
+        <seg>Puntadore isblocadu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180818T134533Z" creationid="adria" creationdate="20180818T134533Z">
@@ -3605,6 +3661,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="SC">
         <seg>Sega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T103530Z" creationid="adria" creationdate="20191110T103530Z">
+        <seg>Tzecu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3973,6 +4037,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T074758Z" creationid="adria" creationdate="20180817T074758Z">
         <seg>Non permitas sa creatzione de documentos tradùidos cun problemas de et&amp;ichetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T103440Z" creationid="adria" creationdate="20191110T103440Z">
+        <seg>No traduas is atributos de cuntenutu de is etichetas meta cun sa croba imbeniente de atributos crae-valore (partzidos cun vìrgulas):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T103510Z" creationid="adria" creationdate="20191110T103510Z">
+        <seg>No traduas su cuntenutu de etichetas cun sa croba imbeniente de atributos crae-valore (partzidos cun vìrgulas):</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,10 +4514,18 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Encountered illegal \u sequence</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102639Z" creationid="adria" creationdate="20191110T102639Z">
+        <seg>Secuèntzia illegale \u agatada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English</seg>
       </tuv>
-      <tuv lang="SC">
-        <seg>Sardinian</seg>
+      <tuv lang="SC" changeid="adria" changedate="20191110T103551Z">
+        <seg>Sardu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4662,6 +4750,30 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T082954Z" creationid="adria" creationdate="20180817T082954Z">
         <seg>Faddina {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T101807Z" creationid="adria" creationdate="20191110T101807Z">
+        <seg>Su caràtere iscapadu binàriu cuntenet datos formados male ({0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T101707Z" creationid="adria" creationdate="20191110T101707Z">
+        <seg>Su caràtere iscapadu no est istadu serradu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T101831Z" creationid="adria" creationdate="20191110T101831Z">
+        <seg>Su caràtere detzimale iscapadu cuntenet datos formados male ({0}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,6 +5466,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full/Half &amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T100652Z" creationid="adria" creationdate="20191110T100652Z">
+        <seg>Distinghe intre &amp;larghesa de caràtere intrea/mèdia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T075100Z" creationid="adria" creationdate="20180817T075100Z">
@@ -5670,6 +5790,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T183823Z" creationid="adria" creationdate="20180815T183823Z">
         <seg>Inoghe podes fintzas ispetzificare una positzione personalizada pro is cartellas de su progetu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T103125Z" creationid="adria" creationdate="20191110T103125Z">
+        <seg>Inoghe podes cunfigurare is règulas de nòmine de archìviu de orìgine chi su filtru at a protzessare, podes personalizare is nòmines de is archìvios tradùidos e seberare cale codificatzione at a èssere impreada pro sa càrriga de archìvios e su sarvamentu de is tradutziones chi currispondent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6116,6 +6244,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Infix</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102724Z" creationid="adria" creationdate="20191110T102724Z">
+        <seg>Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Info</seg>
       </tuv>
       <tuv lang="SC">
@@ -6168,6 +6304,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T120219Z" creationid="adria" creationdate="20180815T120129Z">
         <seg>Inserta·nche is e&amp;tichetas chi ammancant de su testu originale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T095708Z" creationid="adria" creationdate="20191110T095708Z">
+        <seg>Modalidade de inserimentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6629,6 +6773,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T095718Z" creationid="adria" creationdate="20191110T095718Z">
+        <seg>BLC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102138Z" creationid="adria" creationdate="20191110T102138Z">
+        <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Language Checker</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180818T223043Z" creationid="adria" creationdate="20180818T223043Z">
@@ -7069,6 +7229,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T095601Z" creationid="adria" creationdate="20191110T095548Z">
+        <seg>Marca làcanas de &amp;paràgrafu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T111624Z" creationid="adria" creationdate="20180815T111624Z">
@@ -7385,6 +7553,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T163229Z" creationid="adria" creationdate="20180902T163229Z">
         <seg>Monolingue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102215Z" creationid="adria" creationdate="20191110T102215Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102230Z" creationid="adria" creationdate="20191110T102230Z">
+        <seg>Optziones de su filtru Moodle PHP</seg>
       </tuv>
     </tu>
     <tu>
@@ -8026,6 +8210,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T095727Z" creationid="adria" creationdate="20191110T095727Z">
+        <seg>SBR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20181108T184017Z" creationid="adria" creationdate="20181108T184017Z">
@@ -8406,6 +8598,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102624Z" creationid="adria" creationdate="20191110T102624Z">
+        <seg>Optziones pro cunfigurare sa longària de lìnia in is documentos de arribu (0 = sena lìmites)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
@@ -8479,6 +8679,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T095704Z" creationid="adria" creationdate="20191110T095704Z">
+        <seg>Modalidade de subraiscritzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDF Input</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T163106Z" creationid="adria" creationdate="20180902T163106Z">
@@ -8495,10 +8703,26 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102141Z" creationid="adria" creationdate="20191110T102141Z">
+        <seg>PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T162746Z" creationid="adria" creationdate="20180902T162746Z">
         <seg>Optziones de filtru PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T101915Z" creationid="adria" creationdate="20191110T101915Z">
+        <seg>Faddina in sa letura de s'archìviu de preferèntzias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8850,6 +9074,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180819T150833Z" creationid="adria" creationdate="20180819T150833Z">
         <seg>Preferèntzias - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T101852Z" creationid="adria" creationdate="20191110T101852Z">
+        <seg>Faddina in s'operatzione de sarvamentu de is preferèntzias de su sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9271,6 +9503,18 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T095935Z" creationid="adria" creationdate="20191110T095806Z">
+        <seg>Mègius chi unu "beep"
+O s'antipàticu messàgiu "Faddina"
+Custos faeddos: 'Situ no agatadu'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T174215Z" creationid="adria" creationdate="20180815T174215Z">
@@ -9523,6 +9767,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180818T225832Z" creationid="adria" creationdate="20180818T225832Z">
         <seg>Boga etichetas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T103220Z" creationid="adria" creationdate="20191110T103206Z">
+        <seg>&amp;Boga is ispàtzios a su cumintzu e a s’acabbu in progetos non segmentados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10148,6 +10400,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T095632Z" creationid="adria" creationdate="20191110T095632Z">
+        <seg>Chirca in is ditzionàrios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search and Replace</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T194252Z" creationid="adria" creationdate="20180815T194252Z">
@@ -10748,6 +11008,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102115Z" creationid="adria" creationdate="20191110T102115Z">
+        <seg>S'estensione carrigada in passadu dae sa classe '{0}' est istada brincada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sli&amp;de Masters</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180816T115229Z" creationid="adria" creationdate="20180816T115229Z">
@@ -10764,10 +11032,26 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T103557Z" creationid="adria" creationdate="20191110T103557Z">
+        <seg>Islovacu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180902T171406Z" creationid="adria" creationdate="20180902T171406Z">
         <seg>Bi sunt alliniatziones de revisionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T100248Z" creationid="adria" creationdate="20191110T100233Z">
+        <seg>Impossìbile agatare carchi una de is cartellas de su progetu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11567,6 +11851,16 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T101521Z" creationid="adria" creationdate="20191110T101521Z">
+        <seg>Sostitutzione de testu:
+S'àmbitu de sa sostitutzione de testu sunt is segmentos de arribu de su progetu, siant giai tradùidos o no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T191729Z" creationid="adria" creationdate="20180815T191729Z">
@@ -11624,10 +11918,42 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102718Z" creationid="adria" creationdate="20191110T102718Z">
+        <seg>Su filtru de Java Resource Bundles at donadu un'etzetzione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102240Z" creationid="adria" creationdate="20191110T102240Z">
+        <seg>Su filtru de Moodle PHP at donadu un'etzetzione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T085417Z" creationid="adria" creationdate="20180817T085417Z">
         <seg>S’URL de su servidore de Moses no est istada cunfigurada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102249Z" creationid="adria" creationdate="20191110T102249Z">
+        <seg>Su filtru de Mozilla DTD at donadu un'etzetzione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102214Z" creationid="adria" creationdate="20191110T102214Z">
+        <seg>Su filtru de PO at donadu un'etzetzione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12137,6 +12463,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102951Z" creationid="adria" creationdate="20191110T102951Z">
+        <seg>Custu programma est lìberu; ddu podes torrare a distribuire e/o modificare a suta de is cunditziones de sa GNU General Public License publicada dae sa Free Software Foundation; in sa versione 3 o (si boles) imbeniente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This project</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T081329Z" creationid="adria" creationdate="20180817T081329Z">
@@ -12590,6 +12924,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T095723Z" creationid="adria" creationdate="20191110T095723Z">
+        <seg>ISB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180815T184003Z" creationid="adria" creationdate="20180815T184003Z">
@@ -12674,6 +13016,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20190828T090203Z" creationid="adria" creationdate="20190828T090203Z">
         <seg>Impossìbile incarrerare sa letura de s’archìviu XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T102134Z" creationid="adria" creationdate="20191110T102134Z">
+        <seg>Impossìbile lèghere s'archìviu de cunfiguratzione de filtros</seg>
       </tuv>
     </tu>
     <tu>
@@ -13313,6 +13663,16 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T100913Z" creationid="adria" creationdate="20191110T100913Z">
+        <seg>Espressiones regulares:
+Siat sa chirca esata chi sa chirca cun paràulas crae permitint s'impreu de is espressiones regulares * e ?.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Will be synchronized next time.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T093836Z" creationid="adria" creationdate="20180817T093836Z">
@@ -13639,6 +13999,15 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
       </tuv>
       <tuv lang="SC" changeid="adria" changedate="20180817T081516Z" creationid="adria" creationdate="20180817T081516Z">
         <seg>Depes atualizare JDK 1.6 a s’ùrtima versione, o isceti bogare is archìvios jaxb-*.jar de sa cartella OmegaT /lib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="SC" changeid="adria" changedate="20191110T100337Z" creationid="adria" creationdate="20191110T100242Z">
+        <seg>Si ddas as mòvidas, ispetzìfica·nde sa positzione atuale; si ddas as cantzelladas, torra·ddas a creare.
+</seg>
       </tuv>
     </tu>
     <tu>
