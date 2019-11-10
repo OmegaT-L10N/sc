@@ -98,3 +98,5 @@ penalty	penalizatzione
 spell checker	curretore ortogràficu	spellchecker
 GUI	IGU	interfache gràfica de usuàriu
 troubleshooting	solutzione de problemas
+width	larghesa
+escaped	iscapadu	escaped character: caràtere iscapadu (dae una chirca cun espressiones regulares).
