@@ -1772,6 +1772,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204301Z" creationid="adria" creationdate="20200324T204301Z">
+        <seg>Crae API (optzionale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T082943Z" creationid="adria" creationdate="20180817T082943Z">
@@ -3258,6 +3266,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204231Z" creationid="adria" creationdate="20200324T204231Z">
+        <seg>Connete a unu servidore personalizadu imbetzes de apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T095334Z" creationid="adria" creationdate="20180817T095334Z">
@@ -3637,6 +3653,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180818T134528Z" creationid="adria" creationdate="20180818T134528Z">
         <seg>Seletzione de colores personalizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204239Z" creationid="adria" creationdate="20200324T204239Z">
+        <seg>URL de su servidore personalizadu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4526,6 +4550,22 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20191110T103551Z">
         <seg>Sardu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204355Z" creationid="adria" creationdate="20200324T204355Z">
+        <seg>Assegura·ti chi s'URL est curretu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204402Z" creationid="adria" creationdate="20200324T204331Z">
+        <seg>Assegura·ti chi s'URL de su servidore est curretu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12232,6 +12272,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204342Z" creationid="adria" creationdate="20200324T204342Z">
+        <seg>Su servidore no est unu servidore de Apertium vàlidu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T190312Z">
@@ -13029,6 +13077,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T173824Z">
         <seg>Non s’est pòdidu creare s’archìviu TMX nou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204311Z" creationid="adria" creationdate="20200324T204311Z">
+        <seg>Impossìbile connètere a su servidore.</seg>
       </tuv>
     </tu>
     <tu>
