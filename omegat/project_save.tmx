@@ -2281,6 +2281,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205145Z" creationid="adria" creationdate="20200324T205145Z">
+        <seg>Una tradutzione esistente est istada cambiada in calicuna cosa de diferente dae su chi as seberadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20181108T181353Z" creationid="adria" creationdate="20180818T224054Z">
@@ -8843,6 +8851,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205014Z" creationid="adria" creationdate="20200324T205014Z">
+        <seg>Làcanas de paràgrafu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph delimitation format:</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20200324T203826Z" creationid="adria" creationdate="20200324T203826Z">
@@ -10576,6 +10592,22 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20191110T095632Z" creationid="adria" creationdate="20191110T095632Z">
         <seg>Chirca in is ditzionàrios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205043Z" creationid="adria" creationdate="20200324T205043Z">
+        <seg>Chirca marca de agatadu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205051Z" creationid="adria" creationdate="20200324T205051Z">
+        <seg>Chirca marca de sostitutzione</seg>
       </tuv>
     </tu>
     <tu>
