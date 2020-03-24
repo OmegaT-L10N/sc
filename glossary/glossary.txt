@@ -104,3 +104,5 @@ delimitation	làcana
 custom	personalizadu
 optional	optzionale
 entry	intrada
+pinpoint align	alliniamentu de clics
+cell	tzella
