@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204518Z" creationid="adria" creationdate="20200324T204518Z">
+        <seg>(Lassa sa crae bòida si ses impreende una crae API.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T164948Z" creationid="adria" creationdate="20180902T164948Z">
@@ -2678,6 +2686,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="sc">
         <seg>Annulla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204623Z" creationid="adria" creationdate="20200324T204623Z">
+        <seg>Isceti is scripts chi ddu permitint podent èssere annullados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7569,6 +7585,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204505Z" creationid="adria" creationdate="20200324T204505Z">
+        <seg>Id de su modellu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification info</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T100745Z" creationid="adria" creationdate="20180816T100745Z">
@@ -7934,6 +7958,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T151543Z" creationid="adria" creationdate="20180816T151543Z">
         <seg>Perunu ditzionàriu nou a disponimentu in su servidore remotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No script bound in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204655Z" creationid="adria" creationdate="20200324T204655Z">
+        <seg>Perunu script in #{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10178,6 +10210,14 @@ Custos faeddos: 'Situ no agatadu'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run script on slot #{0}.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204646Z" creationid="adria" creationdate="20200324T204646Z">
+        <seg>Avia su script in #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T175032Z" creationid="adria" creationdate="20180815T175032Z">
@@ -10400,6 +10440,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T163819Z" creationid="adria" creationdate="20180902T163819Z">
         <seg>Scribus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script "{0}" bound to slot #{1}.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204722Z" creationid="adria" creationdate="20200324T204722Z">
+        <seg>Script {0} assignadu a #{1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12352,6 +12400,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text size exceeds the maximum</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204554Z" creationid="adria" creationdate="20200324T204554Z">
+        <seg>Sa mannària de su testu bàriga su màssimu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T190431Z">
@@ -13526,6 +13582,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T072348Z" creationid="adria" creationdate="20180817T072348Z">
         <seg>Usuàriu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204447Z" creationid="adria" creationdate="20200324T204447Z">
+        <seg>Nùmene utente o crae API:</seg>
       </tuv>
     </tu>
     <tu>
