@@ -2505,6 +2505,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205458Z" creationid="adria" creationdate="20200324T205458Z">
+        <seg>Puntègiu mèdiu: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180818T224603Z" creationid="adria" creationdate="20180815T183359Z">
@@ -2694,6 +2702,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="sc">
         <seg>Annulla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cancel Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205407Z" creationid="adria" creationdate="20200324T205407Z">
+        <seg>Annulla alliniatzione de clics</seg>
       </tuv>
     </tu>
     <tu>
@@ -4578,6 +4594,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>End Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205400Z" creationid="adria" creationdate="20200324T205400Z">
+        <seg>Acabba alliniatzione de clics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20191110T103551Z">
@@ -5918,6 +5942,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180818T225820Z" creationid="adria" creationdate="20180818T225820Z">
         <seg>Evidèntzia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Pattern...</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205431Z" creationid="adria" creationdate="20200324T205431Z">
+        <seg>Règula de evidentziadu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8963,6 +8995,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205551Z" creationid="adria" creationdate="20200324T205551Z">
+        <seg>Alliniamentu de clics: seletziona sa tzella chi currispondet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -11595,6 +11635,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T094714Z" creationid="adria" creationdate="20180817T094714Z">
         <seg>Avia OmegaT e sighi a bortare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205343Z" creationid="adria" creationdate="20200324T205343Z">
+        <seg>Cumintza alliniatzione de clics</seg>
       </tuv>
     </tu>
     <tu>
