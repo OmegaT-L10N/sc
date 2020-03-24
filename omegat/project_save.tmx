@@ -4209,6 +4209,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205752Z" creationid="adria" creationdate="20200324T205752Z">
+        <seg>Non dimandes ite si depet controllare prima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Don't ask before checking issues</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180819T150524Z" creationid="adria" creationdate="20180819T150524Z">
@@ -4462,6 +4470,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T121219Z" creationid="adria" creationdate="20180816T121219Z">
         <seg>Modìfica règulas de filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T205648Z" creationid="adria" creationdate="20200324T205648Z">
+        <seg>Modìfica règula de evidentziadu</seg>
       </tuv>
     </tu>
     <tu>
