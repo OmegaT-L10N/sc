@@ -101,3 +101,5 @@ troubleshooting	solutzione de problemas
 width	larghesa
 escaped	iscapadu	escaped character: caràtere iscapadu (dae una chirca cun espressiones regulares).
 delimitation	làcana
+custom	personalizadu
+optional	optzionale
