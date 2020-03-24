@@ -103,3 +103,4 @@ escaped	iscapadu	escaped character: caràtere iscapadu (dae una chirca cun espre
 delimitation	làcana
 custom	personalizadu
 optional	optzionale
+entry	intrada
