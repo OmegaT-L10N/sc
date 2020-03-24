@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_cd437983a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6028,6 +6028,18 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If later access to the desired location is granted
+that location will be used and all settings will return to
+their defaults as a result of the location change.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T204201Z" creationid="adria" creationdate="20200324T204201Z">
+        <seg>Si su permissu de atzessu a sa positzione disigiada est cuntzèdidu a pustis
+custa positzione at a èssere impreada e totu is cunfiguratziones ant a torrare a is valores predefinidos
+comente resurtadu de su càmbiu de positzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T164449Z" creationid="adria" creationdate="20180902T164449Z">
@@ -6224,6 +6236,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T184107Z" creationid="adria" creationdate="20180815T184107Z">
         <seg>Include règula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T203928Z" creationid="adria" creationdate="20200324T203928Z">
+        <seg>Include c&amp;ointzidèntzias de àteras limbas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8719,6 +8739,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T203826Z" creationid="adria" creationdate="20200324T203826Z">
+        <seg>Formadu de làcanas de paràgrafu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20191110T101915Z" creationid="adria" creationdate="20191110T101915Z">
@@ -8787,6 +8815,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180818T230022Z" creationid="adria" creationdate="20180818T230022Z">
         <seg>Règula...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T203944Z" creationid="adria" creationdate="20200324T203944Z">
+        <seg>Penalizatzione pro is cointzidèntzias de àteras limbas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13604,6 +13640,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T163925Z" creationid="adria" creationdate="20180902T163925Z">
         <seg>Sutatìtulos de WebVTT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200324T203912Z" creationid="adria" creationdate="20200324T203912Z">
+        <seg>Cando un'archìviu sìngulu tenet prus segmentos de custu, àteros segmentos ant a èssere carrigados comente iscurres.</seg>
       </tuv>
     </tu>
     <tu>
