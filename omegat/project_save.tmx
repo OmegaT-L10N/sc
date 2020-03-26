@@ -3110,6 +3110,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T095950Z" creationid="adria" creationdate="20200326T095950Z">
+        <seg>S'òrdine non cuntenet sa cadena de òrdine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command is missing encoding</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T160419Z" creationid="adria" creationdate="20180902T160419Z">
