@@ -13257,6 +13257,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T095914Z" creationid="adria" creationdate="20200326T095914Z">
+        <seg>S'URL non tenet peruna cadena URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL is missing encoding</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T160333Z" creationid="adria" creationdate="20180902T160333Z">
