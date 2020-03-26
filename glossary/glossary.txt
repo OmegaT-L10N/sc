@@ -118,3 +118,4 @@ recoverable	recuperàbile
 fatal error	faddina grae
 plugin	estensione
 break	brincu
+fallback	riserva
