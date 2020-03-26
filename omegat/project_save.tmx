@@ -3102,6 +3102,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T100116Z" creationid="adria" creationdate="20200326T100116Z">
+        <seg>Su separadore de òrdines est bòidu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command does not contain "{0}"</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T160349Z" creationid="adria" creationdate="20180902T160349Z">
