@@ -10356,6 +10356,14 @@ Custos faeddos: 'Situ no agatadu'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T100919Z" creationid="adria" creationdate="20200326T100919Z">
+        <seg>Inclusione dae dereta a manca (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Mark (RLM U+200F)</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T160806Z" creationid="adria" creationdate="20180902T160806Z">
