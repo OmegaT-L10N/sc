@@ -12586,6 +12586,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T105246Z" creationid="adria" creationdate="20200326T105246Z">
+        <seg>Is optziones imbenientes no ant a èssere aplicadas si sa casella "Cumpatibilidade cun OmegaT 2.6" est ativada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
