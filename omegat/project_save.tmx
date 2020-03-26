@@ -5331,6 +5331,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T104403Z" creationid="adria" creationdate="20200326T104403Z">
+        <seg>Faddina grae in sa lìnia {0}, colunna {1} durante s'anàlisi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Few more things to remember</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20181108T184546Z" creationid="adria" creationdate="20181108T184546Z">
