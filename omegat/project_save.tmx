@@ -3358,6 +3358,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confused by false start of comment tag!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T103406Z" creationid="adria" creationdate="20200326T103406Z">
+        <seg>Su cumintzu de un'eticheta de cummentu no fiat curretu e at creadu confusione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connect to custom server instead of apertium.org</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20200324T204231Z" creationid="adria" creationdate="20200324T204231Z">
