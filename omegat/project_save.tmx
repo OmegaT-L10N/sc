@@ -5495,6 +5495,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T103515Z" creationid="adria" creationdate="20200326T103515Z">
+        <seg>Caràtere "?" mòbile no acapiadu a perunu "&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T190833Z" creationid="adria" creationdate="20180815T190833Z">
