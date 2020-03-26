@@ -6745,6 +6745,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T095757Z" creationid="adria" creationdate="20200326T095757Z">
+        <seg>S'elementu non tenet perunu àmbitu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Item name is empty or missing</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20181108T181413Z" creationid="adria" creationdate="20180902T160228Z">
