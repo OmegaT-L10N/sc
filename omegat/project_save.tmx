@@ -9324,6 +9324,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T101047Z" creationid="adria" creationdate="20200326T101047Z">
+        <seg>Fine de su formadu diretzionale (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T115117Z" creationid="adria" creationdate="20180816T115117Z">
