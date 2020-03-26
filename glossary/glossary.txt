@@ -113,3 +113,4 @@ window	ventana
 file manager	esploradore de archìvios
 parse	analizare
 parsing	anàlisi
+column	colunna
