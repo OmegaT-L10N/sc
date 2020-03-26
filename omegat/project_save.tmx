@@ -1744,6 +1744,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T105117Z" creationid="adria" creationdate="20200326T105117Z">
+        <seg>Atributu &amp;resname de &lt;trans-unit&gt; cando siat a disponimentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T164050Z" creationid="adria" creationdate="20180902T164050Z">
