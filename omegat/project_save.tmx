@@ -9355,6 +9355,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T095433Z" creationid="adria" creationdate="20200326T095433Z">
+        <seg>Preme s'incurtzadura de tecladu chi boles assignare, a pustis incarca AB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preview</seg>
       </tuv>
       <tuv lang="sc">
