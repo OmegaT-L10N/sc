@@ -2387,6 +2387,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T102233Z" creationid="adria" creationdate="20200326T102233Z">
+        <seg>Is tabellas non depent èssere non definidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20181108T185200Z" creationid="adria" creationdate="20181108T185200Z">
