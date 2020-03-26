@@ -1281,8 +1281,9 @@
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="sc" changeid="adria" changedate="20200326T102311Z" creationid="adria" creationdate="20200326T102311Z">
-        <seg>"*" currispondet a zero o prus caràteres ("car</seg>
+      <tuv lang="sc" changeid="adria" changedate="20200326T102548Z" creationid="adria" creationdate="20200326T102311Z">
+        <seg>Su caràtere "*" currispondet a zero o prus caràteres ("curre*" agatat "curre", "curres", "currende", etc.).
+Su caràtere "?" currispondet isceti a unu caràtere ("curre*" agatat "curres" e "curret", però non "curre" nen "currende").</seg>
       </tuv>
     </tu>
     <tu>
