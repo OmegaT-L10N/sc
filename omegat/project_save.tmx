@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T104805Z" creationid="adria" creationdate="20200326T104805Z">
+        <seg>Brincos de &amp;lìnia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Load...</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T105336Z" creationid="adria" creationdate="20180817T105336Z">
