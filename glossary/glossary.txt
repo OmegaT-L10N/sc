@@ -115,3 +115,4 @@ parse	analizare
 parsing	anàlisi
 column	colunna
 recoverable	recuperàbile
+fatal error	faddina grae
