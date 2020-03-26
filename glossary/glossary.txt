@@ -109,3 +109,4 @@ scope	àmbitu
 item	elementu
 string	cadena	cadena
 delimitation	separadore
+window	ventana
