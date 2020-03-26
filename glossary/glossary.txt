@@ -108,3 +108,4 @@ pinpoint align	alliniamentu de clics
 cell	tzella
 scope	àmbitu
 item	elementu
+string	cadena	cadena
