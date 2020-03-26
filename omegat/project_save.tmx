@@ -9938,6 +9938,14 @@ Custu: "No agatadu"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T104257Z" creationid="adria" creationdate="20200326T104257Z">
+        <seg>Faddina recuperàbile in sa lìnia {0}, colunna {1} durante s'anàlisi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T191629Z" creationid="adria" creationdate="20180815T191629Z">
