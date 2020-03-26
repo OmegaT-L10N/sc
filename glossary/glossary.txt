@@ -111,3 +111,5 @@ string	cadena	cadena
 delimitation	separadore
 window	ventana
 file manager	esploradore de archìvios
+parse	analizare
+parsing	anàlisi
