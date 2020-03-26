@@ -5070,6 +5070,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T103851Z" creationid="adria" creationdate="20200326T103851Z">
+        <seg>Etzetzione durante s'anàlisi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exceptions occurred while loading segmentation rules:</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T165710Z" creationid="adria" creationdate="20180902T165710Z">
