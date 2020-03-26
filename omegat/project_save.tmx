@@ -5218,6 +5218,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T100237Z" creationid="adria" creationdate="20200326T100237Z">
+        <seg>Faddina in su ritzevimentu de s'informatzione de s'ùrtima versione: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T122259Z" creationid="adria" creationdate="20180815T122259Z">
