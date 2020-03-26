@@ -14187,6 +14187,14 @@ in sa lìnia {1}, colunna {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T105218Z" creationid="adria" creationdate="20200326T105218Z">
+        <seg>Si no est a disponimentu, s'ID at a èssere impreadu comente riserva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20190828T085307Z" creationid="adria" creationdate="20190828T085307Z">
