@@ -14370,6 +14370,14 @@ Siat sa chirca esata chi sa chirca cun paràulas crae permitint s'impreu de is e
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T100724Z" creationid="adria" creationdate="20200326T100724Z">
+        <seg>Podes fintzas copiare is archìvios a sa cartella "source" de su progetu impreende s'esploradore de archìvios tuo e torrare a carrigare su progetu incarchende "Torra a carrigare" dae su menù Progetu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T174626Z" creationid="adria" creationdate="20180815T174626Z">
