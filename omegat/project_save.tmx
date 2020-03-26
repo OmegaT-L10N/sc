@@ -3118,6 +3118,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T100035Z" creationid="adria" creationdate="20200326T100035Z">
+        <seg>S'òrdine non cuntenet su separadore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command is missing encoding</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T160419Z" creationid="adria" creationdate="20180902T160419Z">
