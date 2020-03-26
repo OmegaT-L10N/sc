@@ -8383,6 +8383,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T105036Z" creationid="adria" creationdate="20200326T105036Z">
+        <seg>Nota: is archìvios Docbook sunt reconnotos no isceti dae s'estensione de archìviu, ma depent tènnere puru una decraratzione DOCTYPE: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... pro DocBook 4, o unu nòmine de ispàtziu: xmlns="http://docbook.org/ns/docbook" pro DocBook 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T165633Z" creationid="adria" creationdate="20180902T165633Z">
