@@ -106,3 +106,5 @@ optional	optzionale
 entry	intrada
 pinpoint align	alliniamentu de clics
 cell	tzella
+scope	àmbitu
+item	elementu
