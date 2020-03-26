@@ -5043,6 +5043,15 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
     </tu>
     <tu>
+      <note>Nota agatada in sa localizatzione a su castillianu (https://raw.githubusercontent.com/OmegaT-L10N/es/master/omegat/project_save.tmx):
+Los mensajes de error HF_HAIKU se traducen como haikus (tres versos, el primero y el tercero de 5 sílabas, el segundo de 7).</note>
+      <tuv lang="en">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="en">
         <seg>Exclude Pattern</seg>
       </tuv>
