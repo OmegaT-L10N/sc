@@ -11597,6 +11597,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T100200Z" creationid="adria" creationdate="20200326T100200Z">
+        <seg>Inserta un'incurtzadura cun "&amp;": "F&amp;oobar" pro impreare O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T101312Z" creationid="adria" creationdate="20180816T101312Z">
