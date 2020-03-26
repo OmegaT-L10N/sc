@@ -14063,6 +14063,14 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T104218Z" creationid="adria" creationdate="20200326T104218Z">
+        <seg>Atentzione a sa lìnia {0}, colunna {1} durante s'anàlisi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning!</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T110009Z" creationid="adria" creationdate="20180817T110009Z">
