@@ -110,3 +110,4 @@ item	elementu
 string	cadena	cadena
 delimitation	separadore
 window	ventana
+file manager	esploradore de archìvios
