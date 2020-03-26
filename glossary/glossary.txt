@@ -100,7 +100,6 @@ GUI	IGU	interfache gràfica de usuàriu
 troubleshooting	solutzione de problemas
 width	larghesa
 escaped	iscapadu	escaped character: caràtere iscapadu (dae una chirca cun espressiones regulares).
-delimitation	làcana
 custom	personalizadu
 optional	optzionale
 entry	intrada
@@ -109,3 +108,4 @@ cell	tzella
 scope	àmbitu
 item	elementu
 string	cadena	cadena
+delimitation	separadore
