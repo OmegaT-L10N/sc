@@ -7203,6 +7203,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T100906Z" creationid="adria" creationdate="20200326T100906Z">
+        <seg>Inclusione dae manca a dereta (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Mark (LRM U+200E)</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T160754Z" creationid="adria" creationdate="20180902T160754Z">
