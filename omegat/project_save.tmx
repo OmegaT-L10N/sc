@@ -2301,6 +2301,18 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T104048Z" creationid="adria" creationdate="20200326T104048Z">
+        <seg>Etzetzione durante s'anàlisi de s'archìviu TMX
+{0}
+S'archìviu TMX no at a èssere carrigadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An existing translation was changed to something different from what you chose.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20200324T205145Z" creationid="adria" creationdate="20200324T205145Z">
