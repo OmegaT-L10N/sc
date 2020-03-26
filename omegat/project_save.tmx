@@ -9114,6 +9114,16 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20200326T102019Z" creationid="adria" creationdate="20200326T102019Z">
+        <seg>Leghe sa documentatzione a subra de is optziones de recùperu e torra s'informatzione imbeniente a su fabricante de su programma paris cun una descritzione de comente est sutzèdida sa faddina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please consult the log
 ({1})
 to determine the source of the error and try again.</seg>
