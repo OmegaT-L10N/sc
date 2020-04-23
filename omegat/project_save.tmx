@@ -312,8 +312,8 @@
       <tuv lang="en">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
-      <tuv lang="sc" changeid="adria" changedate="20180817T073737Z" creationid="adria" creationdate="20180817T073737Z">
-        <seg>&amp;Non controlles is variàbiles printf</seg>
+      <tuv lang="sc" changeid="adria" changedate="20200423T133418Z" creationid="adria" creationdate="20180817T073737Z">
+        <seg>N&amp;on controlles is variàbiles printf</seg>
       </tuv>
     </tu>
     <tu>
@@ -1864,6 +1864,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="sc" changedate="20160831T101026Z" creationdate="20160831T101026Z">
+        <seg>Informatziones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T115446Z" creationid="adria" creationdate="20180816T115446Z">
@@ -2956,8 +2964,8 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
       <tuv lang="en">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
-      <tuv lang="sc" changeid="adria" changedate="20180817T073857Z" creationid="adria" creationdate="20180817T073857Z">
-        <seg>Controll&amp;a totu is variàbiles printf (comente %s, %-s)</seg>
+      <tuv lang="sc" changeid="adria" changedate="20200423T133409Z" creationid="adria" creationdate="20180817T073857Z">
+        <seg>Control&amp;la totu is variàbiles printf (comente %s, %-s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,6 +3402,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="sc">
+        <seg>Connete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connect to custom server instead of apertium.org</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20200324T204231Z" creationid="adria" creationdate="20200324T204231Z">
@@ -3442,6 +3458,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
         <seg>Console-translate mode:
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="sc">
+        <seg>Cuntatu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4277,6 +4301,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T143326Z" creationid="adria" creationdate="20180816T142004Z">
         <seg>Apica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="sc" changedate="20160831T101054Z" creationdate="20160831T101054Z">
+        <seg>Documentatzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -10453,6 +10485,14 @@ Custu: "No agatadu"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="sc">
+        <seg>Resursas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="sc">
@@ -11974,6 +12014,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T120131Z" creationid="adria" creationdate="20180816T120131Z">
         <seg>SuperTMXMerge (lissèntzia Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="sc">
+        <seg>Agiudu</seg>
       </tuv>
     </tu>
     <tu>
