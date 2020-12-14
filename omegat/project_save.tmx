@@ -5651,6 +5651,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143354Z" creationid="adria" creationdate="20201214T143354Z">
+        <seg>ID de sa cartella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T190833Z" creationid="adria" creationdate="20180815T190833Z">
@@ -8283,6 +8291,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143528Z" creationid="adria" creationdate="20201214T143528Z">
+        <seg>Perunu testimòngiu de OAuth ispetzificadu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T145158Z" creationid="adria" creationdate="20180816T145158Z">
@@ -8295,6 +8311,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T095321Z" creationid="adria" creationdate="20180817T095321Z">
         <seg>Peruna connessione a disponimentu, su progetu est in modalidade "foras de lìnia".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143536Z" creationid="adria" creationdate="20201214T143536Z">
+        <seg>Peruna ID de cartella ispetzificada</seg>
       </tuv>
     </tu>
     <tu>
@@ -8667,6 +8691,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T121223Z" creationid="adria" creationdate="20180816T121223Z">
         <seg>O&amp;ptziones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143421Z" creationid="adria" creationdate="20201214T143421Z">
+        <seg>Testimòngiu de OAuth</seg>
       </tuv>
     </tu>
     <tu>
@@ -12034,6 +12066,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143654Z" creationid="adria" creationdate="20201214T143654Z">
+        <seg>Cumintza càmbiu de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Statistics</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T181759Z" creationid="adria" creationdate="20180815T181759Z">
@@ -13716,10 +13756,34 @@ Is chircas esatas depent cointzìdere cun sa cadena de chirca intrea.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143601Z" creationid="adria" creationdate="20201214T143551Z">
+        <seg>Impossìbile analizare sa risposta de servìtziu IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20191110T102134Z" creationid="adria" creationdate="20191110T102134Z">
         <seg>Impossìbile lèghere s'archìviu de cunfiguratzione de filtros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143625Z" creationid="adria" creationdate="20201214T143625Z">
+        <seg>Impossìbile analizare s'informe de faddina de servìtziu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143607Z" creationid="adria" creationdate="20201214T143555Z">
+        <seg>Impossìbile analizare sa risposta de servìtziu de tradutzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -14101,6 +14165,14 @@ in sa lìnia {1}, colunna {2}.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T160841Z" creationid="adria" creationdate="20180816T160841Z">
         <seg>Imprea modellos personalizados pro s’informatzione de modificatzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143518Z" creationid="adria" creationdate="20201214T143518Z">
+        <seg>Imprea tèrmines de su glossàriu</seg>
       </tuv>
     </tu>
     <tu>
