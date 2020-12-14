@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_2950a4bc" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4243,8 +4243,8 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
       <tuv lang="en">
         <seg>Do you really want to quit?</seg>
       </tuv>
-      <tuv lang="sc" changeid="adria" changedate="20180815T122807Z" creationid="adria" creationdate="20180815T122807Z">
-        <seg>Ses seguru chi boles essire?</seg>
+      <tuv lang="sc" changeid="adria" changedate="20201214T142319Z" creationid="adria" creationdate="20180815T122807Z">
+        <seg>Seguru chi boles essire?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6267,6 +6267,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T142311Z" creationid="adria" creationdate="20201214T142311Z">
+        <seg>INS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T161021Z" creationid="adria" creationdate="20180902T161021Z">
@@ -8046,6 +8054,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T163257Z" creationid="adria" creationdate="20180902T163257Z">
         <seg>Optziones pro su filtru de Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T142437Z" creationid="adria" creationdate="20201214T142437Z">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T142449Z" creationid="adria" creationdate="20201214T142449Z">
+        <seg>Optziones de filtru de Mozilla FTL</seg>
       </tuv>
     </tu>
     <tu>
