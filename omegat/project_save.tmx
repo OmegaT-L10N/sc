@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144239Z" creationid="adria" creationdate="20201214T144239Z">
+        <seg>&amp;Reseta crae mastra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T194928Z" creationid="adria" creationdate="20180815T194928Z">
@@ -2497,6 +2505,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144203Z" creationid="adria" creationdate="20201214T144203Z">
+        <seg>Atributzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T162940Z" creationid="adria" creationdate="20180902T162940Z">
@@ -3086,6 +3102,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180818T225603Z" creationid="adria" creationdate="20180818T225603Z">
         <seg>Sèbera archìviu tradùidu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144145Z" creationid="adria" creationdate="20201214T144145Z">
+        <seg>Classe</seg>
       </tuv>
     </tu>
     <tu>
@@ -4846,6 +4870,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T122400Z" creationid="adria" creationdate="20180815T122400Z">
         <seg>Inserta·nche su nùmeru de su segmentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144043Z" creationid="adria" creationdate="20201214T144043Z">
+        <seg>Inserta sa crae mastra tua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6801,6 +6833,14 @@ comente resurtadu de su càmbiu de positzione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144134Z" creationid="adria" creationdate="20201214T144134Z">
+        <seg>Estensiones installadas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T175003Z">
@@ -7742,6 +7782,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180818T134513Z" creationid="adria" creationdate="20180818T134513Z">
         <seg>Caratza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144012Z" creationid="adria" creationdate="20201214T144012Z">
+        <seg>Crae mastra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144224Z" creationid="adria" creationdate="20201214T144224Z">
+        <seg>Crae mastra:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8795,6 +8851,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T072456Z" creationid="adria" creationdate="20180817T072456Z">
         <seg>OmegaT podet fintzas controllare is variàbiles de programmatzione (variàbiles de funtzione printf) comente '%s'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144126Z" creationid="adria" creationdate="20201214T144126Z">
+        <seg>OmegaT podet generare e sarvare una crae mastra in manera chi tue non dda depas insertare ònnia borta, però custu est meda prus pagu seguru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10613,6 +10677,14 @@ Custu: "No agatadu"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144245Z" creationid="adria" creationdate="20201214T144245Z">
+        <seg>Reseta sa crae mastra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180818T224159Z" creationid="adria" creationdate="20180818T224159Z">
@@ -11532,6 +11604,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T091430Z" creationid="adria" creationdate="20180817T091430Z">
         <seg>Cunfigura sa cartella de is scripts...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144026Z" creationid="adria" creationdate="20201214T144026Z">
+        <seg>Cunfigura una crae mastra pro amparare is datos privados tuos.</seg>
       </tuv>
     </tu>
     <tu>
