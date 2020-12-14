@@ -4794,6 +4794,14 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143702Z" creationid="adria" creationdate="20201214T143702Z">
+        <seg>Acabba càmbiu de base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20191110T103551Z">
@@ -5799,6 +5807,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180818T223039Z" creationid="adria" creationdate="20180818T223039Z">
         <seg>Dae memòria auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143815Z" creationid="adria" creationdate="20201214T143815Z">
+        <seg>Dae sa memòria imposta</seg>
       </tuv>
     </tu>
     <tu>
@@ -9617,6 +9633,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T115117Z" creationid="adria" creationdate="20180816T115117Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143724Z" creationid="adria" creationdate="20201214T143724Z">
+        <seg>Credentziales predefinidas no imbiadas.</seg>
       </tuv>
     </tu>
     <tu>
