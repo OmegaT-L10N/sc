@@ -122,3 +122,4 @@ fallback	riserva
 token	testimòngiu
 term	tèrmine
 enforced	imposta	in OmegaT, enforced memory: sa memòria chi s'imponet
+master password	crae mastra
