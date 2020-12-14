@@ -119,3 +119,6 @@ fatal error	faddina grae
 plugin	estensione
 break	brincu
 fallback	riserva
+token	testimòngiu
+term	tèrmine
+enforced	imposta	in OmegaT, enforced memory: sa memòria chi s'imponet
