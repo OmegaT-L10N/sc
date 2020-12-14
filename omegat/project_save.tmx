@@ -1616,6 +1616,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143227Z" creationid="adria" creationdate="20201214T143227Z">
+        <seg>&lt;&amp;br&gt; (brincos de lìnia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T090638Z" creationid="adria" creationdate="20180817T090638Z">
@@ -2682,6 +2690,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/Exception</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143247Z" creationid="adria" creationdate="20201214T143247Z">
+        <seg>Divisione/Etzetzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180818T224609Z" creationid="adria" creationdate="20180815T183406Z">
@@ -3605,6 +3621,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T145805Z" creationid="adria" creationdate="20180816T145753Z">
         <seg>Non s’est pòdida creare sa cartella dislindada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143343Z" creationid="adria" creationdate="20201214T143343Z">
+        <seg>Impossìbile cantzellare {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7870,6 +7894,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T110236Z" creationid="adria" creationdate="20180817T110236Z">
         <seg>Meu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143308Z" creationid="adria" creationdate="20201214T143308Z">
+        <seg>Valore mìnimu pro ammustrare una cointzidèntzia partziale:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14553,6 +14585,14 @@ Siat sa chirca esata chi sa chirca cun paràulas crae permitint s'impreu de is e
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T084503Z" creationid="adria" creationdate="20180817T084503Z">
         <seg>Yandex Translate - Peruna crae API insertada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143348Z" creationid="adria" creationdate="20201214T143348Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
