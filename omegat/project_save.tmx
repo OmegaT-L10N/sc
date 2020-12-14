@@ -3817,6 +3817,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating a key</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144805Z" creationid="adria" creationdate="20201214T144805Z">
+        <seg>Creatzione de una crae</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T173730Z" creationid="adria" creationdate="20180815T173730Z">
@@ -5934,6 +5942,14 @@ Gossamer threads hold you back
         <seg>General</seg>
       </tuv>
       <tuv lang="sc" changeid="Sardware" changedate="20171015T223615Z" creationid="Sardware" creationdate="20171015T223615Z">
+        <seg>Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Generalities</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144658Z" creationid="adria" creationdate="20201214T144658Z">
         <seg>Generale</seg>
       </tuv>
     </tu>
@@ -12808,6 +12824,14 @@ Chirca de currègere sa faddina e torra a carrigare su progetu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144759Z" creationid="adria" creationdate="20201214T144759Z">
+        <seg>Su servìtziu de TaaS de https://demo.taas-project.eu/info frunit servìtzios de terminologia in limbas europeas (e in russu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T192655Z">
@@ -12910,6 +12934,14 @@ instead.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20200326T105246Z" creationid="adria" creationdate="20200326T105246Z">
         <seg>Is optziones imbenientes no ant a èssere aplicadas si sa casella "Cumpatibilidade cun OmegaT 2.6" est ativada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144913Z" creationid="adria" creationdate="20201214T144913Z">
+        <seg>Sa crae depet èssere donada a OmegaT pro mèdiu de -Dtaas.user.key=xxxxx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13355,6 +13387,14 @@ at a cantzellare is datos locales tuos e at a torrare a iscarrigare is cuntenuto
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T170107Z" creationid="adria" creationdate="20180902T170107Z">
         <seg>Pro esempru, is règulas pro su frantzesu canadesu (FR-CA) diant dèpere èssere prus artas de cussas pro su frantzesu (FR.*) e prus artas chi is predefinidas (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To access the TaaS service, a user must create a key using https://term.tilde.com/account/keys/create?system=omegaT.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144845Z" creationid="adria" creationdate="20201214T144845Z">
+        <seg>Pro atzèdere a su servìrtziu TaaS, si depet creare una crae pro mèdiu de https://term.tilde.com/account/keys/create?system=omegaT. </seg>
       </tuv>
     </tu>
     <tu>
