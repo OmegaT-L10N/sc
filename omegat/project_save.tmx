@@ -2866,6 +2866,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T142648Z" creationid="adria" creationdate="20201214T142648Z">
+        <seg>Modìfica in "needs-review-translation" imbetzes de "tradùidu"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180815T191149Z" creationid="adria" creationdate="20180815T191142Z">
@@ -4453,6 +4461,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
       </tuv>
       <tuv lang="sc">
         <seg>Dùplica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T142900Z" creationid="adria" creationdate="20201214T142900Z">
+        <seg>&amp;Testu de riserva duplicadu</seg>
       </tuv>
     </tu>
     <tu>
@@ -11848,6 +11864,14 @@ Sa portada predefinida de una chirca est cussa de su progetu. Podet èssere cunf
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T142602Z" creationid="adria" creationdate="20201214T142602Z">
+        <seg>Ispetzìfica su cumportamentu de sa gestione de s'istadu de atributu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T101312Z" creationid="adria" creationdate="20180816T101312Z">
@@ -12522,6 +12546,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20191110T102249Z" creationid="adria" creationdate="20191110T102249Z">
         <seg>Su filtru de Mozilla DTD at donadu un'etzetzione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T142518Z" creationid="adria" creationdate="20201214T142518Z">
+        <seg>Etzetzione agatada in su filtru de Mozilla FTL:</seg>
       </tuv>
     </tu>
     <tu>
