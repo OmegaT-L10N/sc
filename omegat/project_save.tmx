@@ -944,8 +944,8 @@
       <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
-      <tuv lang="sc" changeid="adria" changedate="20201214T144239Z" creationid="adria" creationdate="20201214T144239Z">
-        <seg>&amp;Reseta crae mastra</seg>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144250Z" creationid="adria" creationdate="20201214T144239Z">
+        <seg>&amp;Reseta sa crae mastra</seg>
       </tuv>
     </tu>
     <tu>
@@ -2145,6 +2145,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144320Z" creationid="adria" creationdate="20201214T144320Z">
+        <seg>Totu is preferèntzias protetas dae sa crae mastra ant a èssere resetadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T155748Z" creationid="adria" creationdate="20180816T155748Z">
@@ -2445,6 +2453,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180818T223520Z" creationid="adria" creationdate="20180818T223520Z">
         <seg>Ses seguru chi boles torrare a totu is colores predefinidos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T144306Z" creationid="adria" creationdate="20201214T144306Z">
+        <seg>Seguru chi boles resetare sa crae mastra?</seg>
       </tuv>
     </tu>
     <tu>
