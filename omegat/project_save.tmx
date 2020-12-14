@@ -3585,6 +3585,14 @@ S'archìviu TMX no at a èssere carrigadu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143004Z" creationid="adria" creationdate="20201214T143004Z">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk e àteras persones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180816T095449Z" creationid="adria" creationdate="20180815T173843Z">
@@ -8731,6 +8739,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180817T095708Z" creationid="adria" creationdate="20180817T095708Z">
         <seg>OmegaT at rilevadu unu progetu de iscuadra de s’istile OmegaT 3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T143131Z" creationid="adria" creationdate="20201214T143131Z">
+        <seg>OmegaT est un'aina de Tradutzione Assistida dae s'Elaboradore multiprataforma, lìbera e de còdighe abertu, cun chirca de cointzidèntzias partziales in memòria de tradutzione, chirca cun faeddos crae, glossàrios e aprofitamentu de tradutziones in progetos atualizados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15231,6 +15247,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="sc" changeid="adria" changedate="20180902T171114Z" creationid="adria" creationdate="20180902T171114Z">
         <seg>{0} cola s’orientatzione intre LTR, RTL e ispetzìficu de sa limba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T142932Z" creationid="adria" creationdate="20201214T142932Z">
+        <seg>{0} versione {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="sc" changeid="adria" changedate="20201214T142947Z" creationid="adria" creationdate="20201214T142947Z">
+        <seg>{0} versione {1}, atualizatzione {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
